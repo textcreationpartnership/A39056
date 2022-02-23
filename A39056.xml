@@ -1,0 +1,2011 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The exercise of the foot with the evolutions, according to the words of command, as they are explained : as also the forming of battalions, with directions to be observed by all colonels, captains and other officers in Their Majesties armies.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 119 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39056</idno>
+            <idno type="STC">Wing E3863</idno>
+            <idno type="STC">ESTC R22461</idno>
+            <idno type="EEBO-CITATION">12363717</idno>
+            <idno type="OCLC">ocm 12363717</idno>
+            <idno type="VID">60340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 914:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The exercise of the foot with the evolutions, according to the words of command, as they are explained : as also the forming of battalions, with directions to be observed by all colonels, captains and other officers in Their Majesties armies.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 235 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill and Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Infantry --  Drill and tactics.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60340:1"/>
+            <pb facs="tcp:60340:1"/>
+            <p>THE EXERCISE OF THE FOOT; With the Evolutions, According to the Words of Command, As they are Explained.</p>
+            <p>AS ALSO The Forming of Battalions, with Directions to be Obſerved by all COLONELS, CAPTAINS, and other Officers in Their Maieſties Armies</p>
+            <p>By Their Majeſties Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Charles Bill</hi> and <hi>Thomas Newcomb,</hi> Printers to the King and Queens moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſties. 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:60340:2"/>
+            <pb n="1" facs="tcp:60340:2"/>
+            <head>General Obſervations.</head>
+            <p n="1">I. <seg rend="decorInit">F</seg>Irſt it is to be underſtood, That the Colonel, du<g ref="char:EOLhyphen"/>ring the time of the Exerciſe, remains at the Head of the Battalion. The Lieutenant Colonel and the other Officers, at the Firſt Beat of Drum, Face to the Right about, and at the ſecond Sign by Beat of Drum, Ad<g ref="char:EOLhyphen"/>vance their Arms, and March through the Battalion, placing them<g ref="char:EOLhyphen"/>ſelves in the Reer, in the ſame Or<g ref="char:EOLhyphen"/>der they were before in the Front; Excepting the Lieutenant Colonel, who places himſelf in the Reer of the Captains, where they are to ſtand till the Exerciſe be done.</p>
+            <pb n="2" facs="tcp:60340:3"/>
+            <p>At the ſame time the Sergeants, who are poſted on the Wings, as alſo the Drummers of both Wings, are to place themſelves behind the Battalion, next, or in an equal Line with the other Sergeants, and the Drummers that ſtand in the Center before the Pikes, are at the ſame time to place themſelves behind the Major, that they may be always ready when any Sign is to be given, for the Exerciſe by Beat of Drum.</p>
+            <p n="2">II. When Notice is given by Beat of Drum, after the Exerciſe is done, the Officers Advance their Arms a<g ref="char:EOLhyphen"/>gain, and March through the Bat<g ref="char:EOLhyphen"/>talion, and place themſelves in their former Poſt at the Head of the Bat<g ref="char:EOLhyphen"/>talion. At the ſame time the Ser<g ref="char:EOLhyphen"/>geants of the Wings, as alſo the Drummers, return to their former Poſts.</p>
+            <pb n="3" facs="tcp:60340:3"/>
+            <p n="3">III. It muſt be taken for a General Rule, That nothing be done, nor any Motion made, until the laſt Word of every Command be fully delivered, then all is to be perform<g ref="char:EOLhyphen"/>ed with a graceful Readineſs and Exactneſs.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:60340:4"/>
+               <head>Orders, and Words of Com<g ref="char:EOLhyphen"/>mand, for the Exerciſe of the Musket, with the Explana<g ref="char:EOLhyphen"/>tion, the Musket being Shoul<g ref="char:EOLhyphen"/>der'd.</head>
+               <p n="1">I. THe Soldier having his Musket Shoulder'd, muſt ſtand with a ſtraight Body, holding up his Head without moving, always look<g ref="char:EOLhyphen"/>ing to the Commanding Officer, and make no other Motion then what's Commanded him. This is to be obſerved as a General Rule in Commands.</p>
+               <p n="2">II. The Feet are to be at one Step diſtance, the Heels in a ſtraight Line, the Toes a little turn'd out<g ref="char:EOLhyphen"/>wards.</p>
+               <pb n="5" facs="tcp:60340:4"/>
+               <p n="3">III. The Musket muſt lie upon the Left Shoulder, and the Left Hand upon the Butt-end, the Thumb in the Hollow thereof, preſſing the Guard hard againſt the Breaſt, that the Muzzel of the Musket may be mounted; the Lock muſt be turn'd a little outwards, ſo that the under part of the Butt-end come ſtraight with the middle of the Body, that the Musket may more eaſily be born.</p>
+               <p n="4">IV. The Match muſt be in the Left Hand, the one End betwixt the firſt and ſecond Fingers, and the other between the two laſt, both Ends ſtanding about a Fingers length out of the back of the Hand; the reſt of the Match hangs down by the inſide of the Butt-end of the Muſ<g ref="char:EOLhyphen"/>ket;
+<pb n="6" facs="tcp:60340:5"/>and becauſe the Match is not to be laid down in the ordinary Ex<g ref="char:EOLhyphen"/>erciſe, ſo it is not to be lighted or burning without expreſs Com<g ref="char:EOLhyphen"/>mand.</p>
+               <p n="5">V. The Musket being Shoulder'd, the Left Elbow muſt be a little turn'd upwards from the Body, but without conſtraint of the Arm, the Right Arm hanging cloſe down<g ref="char:EOLhyphen"/>ward along the Body, with the Palm of the Hand turn'd to the Thigh.</p>
+               <div type="table">
+                  <pb n="7" facs="tcp:60340:5"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">Words of Com<g ref="char:EOLhyphen"/>mand.</cell>
+                           <cell role="label">Explanation.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>1.</hi> Ioyn your Right Hand to your Muskets</cell>
+                           <cell>1. YOur Musket be<g ref="char:EOLhyphen"/>ing carried in the forementioned po<g ref="char:EOLhyphen"/>ſture, upon the Left Shoulder, you muſt turn it inwards with the Left Hand, and at once take hold with your Right Hand be<g ref="char:EOLhyphen"/>hind the Pan, that the Thumb of your Right Hand come on the Stock upwards, and both Elbows in an e<g ref="char:EOLhyphen"/>qual Line, the Musket ſtrait, and the But-end a little mounted.</cell>
+                        </row>
+                        <pb n="8" facs="tcp:60340:6"/>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> Poiſe your Muskets.
+<note place="bottom">
+                                 <p>
+                                    <hi>Note,</hi> That when the Musket is put on, or taken from the Shoul<g ref="char:EOLhyphen"/>der, you muſt always look towards the Left Hand, yet without turning the Head.</p>
+                                 <p>It is to be obſerved, that in all Tellings you never make the Motion, till you come to the laſt Number, and that the telling the laſt Number and the Motion, be done at one time.</p>
+                              </note>
+                           </cell>
+                           <cell>2. At this Word of Command, with both your Hands, with a quick Motion, you bring up the Musket from your Shoulder, and at the ſame time, without holding it ſtill, thruſt it from you with the Right Hand, (in doing which, let looſe the Left Hand, and let it fall down your ſide) ſo that the Lock be turned outwards, the Thumb inwards a<g ref="char:EOLhyphen"/>gainſt your Face, your Feet ſtrait againſt one another, unconſtrained and ſtanding ſtill.</cell>
+                        </row>
+                        <pb n="9" facs="tcp:60340:6"/>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> Ioyn your Left Hand to your Muskets.</cell>
+                           <cell>3. Let your Musket ſink quickly with your Right Hand, and at the ſame time falling back with the Right Foot, take hold of it with the Left Hand almoſt in an equal balance, about Two Hands breadth above the Cock, that the Stock lie in the full Hand, and the Thumb up<g ref="char:EOLhyphen"/>wards, and that the Muzzel hang a little forward, ſo low as the Hands and Arms will permit without con<g ref="char:EOLhyphen"/>ſtraint, holding both Elbows a little turned
+<pb n="10" facs="tcp:60340:7"/>outwards, the Right Foot a little turned to<g ref="char:EOLhyphen"/>wards the Right Side, the Left Knee a little bending, the Body ſtrait, you hold the Musket on the Right Side a little from the Body, that the Body and Face preſent it ſelf as much forward as may be, and the Hand remain uncon<g ref="char:EOLhyphen"/>ſtrained under the Pan.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>4.</hi> Handle your Matches.</cell>
+                           <cell>4. Take that end of the Match which is held between the two laſt Fingers of your
+<pb n="11" facs="tcp:60340:7"/>Left Hand, with your Thumb under and your two formoſt Fin<g ref="char:EOLhyphen"/>gers above the ſame, and tell 1, 2, bring it quick out of your Left Hand, hold it a little lower then the Left Hand is, and about a foot diſtance from the Pan with the Cole or end downwards, and keep your Body in the ſame poſture as be<g ref="char:EOLhyphen"/>fore.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>5.</hi> Blow your Matches.</cell>
+                           <cell>5. In the blowing of the Match you muſt hold your Head ſtill, and bring with your
+<pb n="12" facs="tcp:60340:8"/>Right Hand the light<g ref="char:EOLhyphen"/>ed Match againſt your Mouth, tell ſlowly 1.2. blow the Match quick and ſtrong, and bring the ſame with a motion ſomewhat ſlow to its former place with the Cole as before downwards.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>6.</hi> Cock your Matches.</cell>
+                           <cell>6. Put your Two fore<g ref="char:EOLhyphen"/>moſt Fingers a little a<g ref="char:EOLhyphen"/>ſunder, bringing the Match above the Cock, thruſt in the ſame with your Thumb in ſuch a manner that the Cock comes between your Two Fingers, and
+<pb n="13" facs="tcp:60340:8"/>the Thumb upon it, keep your hand thus till the following Com<g ref="char:EOLhyphen"/>mand.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>7.</hi> Try your Matches.</cell>
+                           <cell>7. Bring the Cockt Match to the Pan, if it be too low, you muſt raiſe it a little upwards with your undermoſt Fingers, and if it be too high, you bend it downwards with your foremoſt Finger and your Thumb, till it comes juſt in the mid<g ref="char:EOLhyphen"/>dle of your Pan, and being thus well fixt, you muſt bring it with the Cock back again,
+<pb n="14" facs="tcp:60340:9"/>holding it faſt till the following Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>8.</hi> Guard your Pans.</cell>
+                           <cell>8. Let looſe your hand from the cockt Match, and cover your Pan with your two or three foremoſt Fingers (if the breadth of the Pan require it) placing your Thumb behind the Pan.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>9.</hi> Blow your Matches.</cell>
+                           <cell>9. As before you move not your head, and bring the Musket with both hands juſt before the middle of your Body (at the ſame
+<pb n="15" facs="tcp:60340:9"/>time bringing up your Right Foot) the Cock muſt come juſt againſt the mouth, tell ſlowly 1, 2, blow your Match hard, and thruſting the Musket ſuddenly from you, hold it with out<g ref="char:EOLhyphen"/>ſtretched Arms before you, ſo as the Left Hand comes no higher then your Left Shoul<g ref="char:EOLhyphen"/>der, and ſtand ſtill.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>10.</hi> Preſent.</cell>
+                           <cell>10. In preſenting the Musket, it muſt come from the former Po<g ref="char:EOLhyphen"/>ſture with the falling back of the Right Foot (though a little to the
+<pb n="16" facs="tcp:60340:10"/>Right Side, and not behind the Left Foot, that the Body may the better preſent it ſelf forward) and ſo brought to your Breaſt; and as ſoon as it is brought to your Breaſt the Pan is to be open<g ref="char:EOLhyphen"/>ed; the Musket is held with the Right Hand under the Pan, ſo that the Thumb lies in the hollow of the Butt, the foremoſt Finger before the Tricker (yet with<g ref="char:EOLhyphen"/>out touching the Tric<g ref="char:EOLhyphen"/>ker) and the Three other Fingers upon the Guard; the Musket in Preſenting muſt not
+<pb n="17" facs="tcp:60340:10"/>come too low on the Breaſt, but be ſet firm in the hollow of the Right Shoulder; and muſt be held ſtrongly, you muſt keep up your Body ſtrait, only preſt down a little againſt the Musket, the El<g ref="char:EOLhyphen"/>bows as much as poſ<g ref="char:EOLhyphen"/>ſible in an equal Line, with the Butt a little below the ſtrait Line, or Breaſt high, the Head ſtrait upwards, the Left Knee a little bent.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>11.</hi> Give Fire.</cell>
+                           <cell>11. As ſoon as this Command is given,
+<pb n="18" facs="tcp:60340:11"/>you draw the Tricker with the Firſt Finger, which you held before the Tricker, drawing the cockt Match quick and ſtrong upon the Pan. If it diſcharge or not you muſt have a ſpecial care that you draw your Tricker but once.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>12.</hi> Recover your Arms.</cell>
+                           <cell>12. Bring up your Mus<g ref="char:EOLhyphen"/>ket quick again ſtraight before you, together with your Right Foot, and keep the Poſture, as in Explan. Nine is ſhewn.</cell>
+                        </row>
+                        <pb n="19" facs="tcp:60340:11"/>
+                        <row>
+                           <cell>
+                              <hi>13.</hi> Return your Matches.</cell>
+                           <cell>13. Take the Match with the right Thumb under, the the two fore Fingers above, and with a turn'd, or back<g ref="char:EOLhyphen"/>hand, bring it out of the Cock, to the two laſt Fingers from whence it was taken before, tell 1, 2, and joyn your Right Hand again under your Pan.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>14.</hi> Blow your Pans.</cell>
+                           <cell>14. Keep ſtill your Head, and bring up the Musket with both Hands ſtraight before your Mouth, tell ſlowly 1, 2, blow the
+<pb n="20" facs="tcp:60340:12"/>Pan ſtrong and quick, bringing the Musket again with a quick Motion before the Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>15.</hi> Handle your Primers.</cell>
+                           <cell>15. Fall back quick with the Right Foot behind the Left, that the Heels, come ſtraight behind one another, and bring down at the ſame time with a nimble Motion your Musket with both Hands, holding the Muzzel a little lower then was ſhewn in Explan. 3. tell 1, 2, upon that take hold of the Primer, the Thumb
+<pb n="21" facs="tcp:60340:12"/>upwards upon the Co<g ref="char:EOLhyphen"/>ver, tell again 1, 2, and bring it upwards about a Hands breadth from the Pan.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>16.</hi> Prime.</cell>
+                           <cell>16. Hold your Musket ſtill, turn up your Hand with the Pri<g ref="char:EOLhyphen"/>mer, and ſhake out as much Powder upon the Pan as is needful, tell 1, 2, bring it again to its former place, and remain in that Po<g ref="char:EOLhyphen"/>ſture till the following word of Command.</cell>
+                        </row>
+                        <pb n="22" facs="tcp:60340:13"/>
+                        <row>
+                           <cell>
+                              <hi>17.</hi> Shut your Pans.</cell>
+                           <cell>17. Open your Right Hand, let fall the Pri<g ref="char:EOLhyphen"/>mer, then ſhut the Pan with a full Hand, that your Fingers lie againſt the undermoſt part of the Stock, tell ſlowly 1, 2, bring up the Musket with both Hands before your Body, bringing up the Right Foot again at the ſame time; in which bringing up, you put your Right Hand under the Pan, and with out-ſtretched Arms remain in that Poſture, as in Expla<g ref="char:EOLhyphen"/>nation 9.</cell>
+                        </row>
+                        <pb n="23" facs="tcp:60340:13"/>
+                        <row>
+                           <cell>
+                              <hi>18.</hi> Blow your Pans.</cell>
+                           <cell>18. Hold ſtill your Head, and bring the Muſ<g ref="char:EOLhyphen"/>ket with both Hands ſtraight before your Mouth, tell ſlowly 1, 2, blow off your looſe Corns from the Cover of your pan hard and quick, and thruſting your Musket with a quick Motion from the Body, bring it to the former Po<g ref="char:EOLhyphen"/>ſture again.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>19.</hi> Caſt about to Charge.</cell>
+                           <cell>19. Turn the Musket with both Hands, ſo that the Barrel come outmoſt, &amp; tell ſlowly 1, 2, let go
+<pb n="24" facs="tcp:60340:14"/>the Right Hand, bring down the Musket with the Left, ſtep one Pace forward with the right Foot, tho' not directly before the Left, but placed a little to the Right Side, that the Body preſent it ſelf the better forward, take hold of it at the Muz<g ref="char:EOLhyphen"/>zel with your Right Hand, that the bring<g ref="char:EOLhyphen"/>ing down of the Muſ<g ref="char:EOLhyphen"/>ket, the putting down of the Right Foot, and the taking hold of the Muzzel, be done at one time; hold your Thumb upwards up<g ref="char:EOLhyphen"/>on the Stock along the
+<pb n="25" facs="tcp:60340:14"/>Rammer, and the Bar<g ref="char:EOLhyphen"/>rel downwards in your full Hand, keeping the Body ſtraight, only the Right Knee a little bent, which remains thus bent all the time you Charge; keep the Musket ſtraight before your Body, with both Hands and out ſtretch<g ref="char:EOLhyphen"/>ed Arms, the Muzzel ſtanding ſtraight for<g ref="char:EOLhyphen"/>wards.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>20.</hi> Handle your Chargers.</cell>
+                           <cell>20. Bring the Musket with both Hands ſtrait to your Body; tell 1, 2; quit your Musket with your Right Hand
+<pb n="26" facs="tcp:60340:15"/>holding it with your full Left Hand, about the middle in balance, with the Muzzel a lit<g ref="char:EOLhyphen"/>tle forwards, and then take hold of one of your Chargers or Ban<g ref="char:EOLhyphen"/>deliers, telling again ſlowly 1, 2, bringing the ſame forward a lit<g ref="char:EOLhyphen"/>tle higher, and a<g ref="char:EOLhyphen"/>bout a Hands breadth ſideways off from the Muzzel, the Thumb upwards upon the co<g ref="char:EOLhyphen"/>ver of the Charger.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>21.</hi> Open them with your Teeth.</cell>
+                           <cell>21. Bring the Charger to your Mouth, pul<g ref="char:EOLhyphen"/>ling off the Cap with your Teeth, and the
+<pb n="27" facs="tcp:60340:15"/>help of your Thumb; tell 1, 2, and bring it to its former place, keeping your Thumb upwards upon the Charger.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>22.</hi> Charge with Powder.</cell>
+                           <cell>22. Bring your Char<g ref="char:EOLhyphen"/>ger to the Muzzel, turning it up, pouring the Powder in the Bar<g ref="char:EOLhyphen"/>rel. Continue in this po<g ref="char:EOLhyphen"/>ſture, till the following word of Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>23.</hi> Charge with Bullet.</cell>
+                           <cell>23. Open your Hand, and drop your Char<g ref="char:EOLhyphen"/>ger; take the Bullet out of your Mouth
+<pb n="28" facs="tcp:60340:16"/>with your Fingers; tell 1, 2, and with your Fingers bring it to the Muzzel; let the Ball run down; keep your two foremoſt Fingers upon the Muz<g ref="char:EOLhyphen"/>zel, the reſt of the Fin<g ref="char:EOLhyphen"/>gers hanging down the Barrel, till the follow<g ref="char:EOLhyphen"/>ing word of Com<g ref="char:EOLhyphen"/>mand be given.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>24.</hi> The Wad from your Hats.</cell>
+                           <cell>24. Take with your Right Hand ſome of the Wad that ſticks between your Hat<g ref="char:EOLhyphen"/>band and your Hat, tell ſlowly 1, 2, and bring the ſame, as you
+<pb n="29" facs="tcp:60340:16"/>did the Buller, to the Muzzel, preſſing it in with your Fingers; leave your two Fingers upon the Muzzel, as be<g ref="char:EOLhyphen"/>fore, the reſt hanging down by the Barrel.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>25.</hi> Draw forth your Ram<g ref="char:EOLhyphen"/>mets.</cell>
+                           <cell>25. Take your Ram<g ref="char:EOLhyphen"/>mers with the Fingers of the Right Hand, holding the Thumb upwards, draw out the ſame ſo far as your Arm can well reach, then take hold of it a<g ref="char:EOLhyphen"/>gain, turning the Right Hand ſo that the Thumb comes down<g ref="char:EOLhyphen"/>ward to the upper end
+<pb n="30" facs="tcp:60340:17"/>of the Stock, or about the uppermoſt Ring; tell ſlowly 1, 2, draw it then wholly out; at this ſecond drawing hold it between the Thumb and the two foremoſt Fingers, the which, with the reſt of the Fingers and the whole Arm, muſt be ſtretched out even with the Right Shoulder, that the ſmall end be towards the Body, and the thick part outward in an even Line.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>26.</hi> Hold them up.</cell>
+                           <cell>26. Move your middle-moſt Fingers which
+<pb n="31" facs="tcp:60340:17"/>ſupport the Rammer, and let the thick end ſink down, and hold it ſo in your hand, with an outſtretched Arm, the Thumb turned up<g ref="char:EOLhyphen"/>wards in the ſame heighth with your Shoulder.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>27.</hi> Shorten them againſt your Breaſts.</cell>
+                           <cell>27. Set the thick end of the Rammer againſt the lower part of your Right Breaſt, in an e<g ref="char:EOLhyphen"/>qual Line with the Musket; tell 1, 2, and ſlip your Hand down to a Hands breadth of the end, the Thumb
+<pb n="32" facs="tcp:60340:18"/>always upwards, and turning the Elbow a little upwards from the Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>28.</hi> Put them in the Barrels.</cell>
+                           <cell>28. Bring the Rammer upwards before the Muzzel, tell 1, 2, then place it upon the Wad thruſting it down ſo far till your Hand touches the Muzzel, then take it about the middle, tell 1, 2, thruſt down again your Wad, till your right Hand comes to the Muzzel; and then take hold of it at the top, tell again 1, 2, and thruſt it fully
+<pb n="33" facs="tcp:60340:18"/>down to the Charge, holding the Rammer faſt with the Fingers and Thumb.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>29.</hi> Ram down your Charge.</cell>
+                           <cell>29. You draw up your Rammer as far as the Arm unforced will permit, tell 1, 2, ram<g ref="char:EOLhyphen"/>ming down the Charge with an ordinary force, and then holding ſtill your Rammer, as be<g ref="char:EOLhyphen"/>fore.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>30.</hi> Withdraw your Ram<g ref="char:EOLhyphen"/>mers.</cell>
+                           <cell>30. With a quick mo<g ref="char:EOLhyphen"/>tion draw the Ram<g ref="char:EOLhyphen"/>mer with your Right Hand till half of it be
+<pb n="34" facs="tcp:60340:19"/>out of the Barrel, then take it with a turned Hand, the Thumb downward, tell 1, 2, and then draw it whol<g ref="char:EOLhyphen"/>ly out of the Barrel, holding it with the thick end turned to<g ref="char:EOLhyphen"/>wards the Shoulder; keeping the Poſture you were told in Ex<g ref="char:EOLhyphen"/>planation 25.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>31.</hi> Hold them up.</cell>
+                           <cell>31. Let the ſmall End of your Rammer ſink down, and keep your Poſture, as in Expla<g ref="char:EOLhyphen"/>nation 26.</cell>
+                        </row>
+                        <pb n="35" facs="tcp:60340:19"/>
+                        <row>
+                           <cell>
+                              <hi>32.</hi> Shorten them againſt your Breaſts.</cell>
+                           <cell>32. Set the ſmall End of your Rammer a<g ref="char:EOLhyphen"/>gainſt your Breaſt, as you did before the thick End, as in Expla<g ref="char:EOLhyphen"/>nation 27, the Hand nt quite ſo low, but about a Foot from the End of the Rammer.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>33.</hi> Return your Rammers.</cell>
+                           <cell>33. Return the Rammer giving it a gentle turn with the Right Hand under the Barrel, tell 1, 2, put it in the Stock, thruſting it in ſo far as you held it with your Hand, then
+<pb n="36" facs="tcp:60340:20"/>take hold of it again in the middle, tell 1, 2, thruſting it downward ſo far as your Hand a<g ref="char:EOLhyphen"/>gain, then take hold again at the top, tell again ſlowly 1, 2, and thruſt it now wholly down in theſe Three Motions, take hold immediately of the Muzzel of the Mus<g ref="char:EOLhyphen"/>ket, the Thumb up<g ref="char:EOLhyphen"/>ward, tell 1, 2, and thruſt the Musket ſud<g ref="char:EOLhyphen"/>denly from your Bo<g ref="char:EOLhyphen"/>dy, and keep the ſame Poſture as in Expla<g ref="char:EOLhyphen"/>nation 19.</cell>
+                        </row>
+                        <pb n="37" facs="tcp:60340:20"/>
+                        <row>
+                           <cell>
+                              <hi>34.</hi> Your Right Hand under the Pan.</cell>
+                           <cell>34. Hold the Musket firm, as it was held in the Left Hand, caſt it out of the Right Hand, that with a very ſmall motion it comes readi<g ref="char:EOLhyphen"/>ly ſtraight up, then take hold of it with the Right Hand under the Pan, holding the Mus<g ref="char:EOLhyphen"/>ket from the Body, the Hands as low as the Arms Unconſtrained will ſuffer.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>35.</hi> Poiſe your Muskets.</cell>
+                           <cell>35. Face upon the Left Heel very quick to the Right, and bring at the ſame time the Mus<g ref="char:EOLhyphen"/>ket
+<pb n="38" facs="tcp:60340:21"/>with both Hands ſtraight before you, at which time you let go your Left Hand, and puſh it forwards ſud<g ref="char:EOLhyphen"/>denly with the Right Hand; ſo that this thruſting forward the Musket, and the ſet<g ref="char:EOLhyphen"/>ting down of the Right Foot, is done at one time; then keep in the Poſture directed in Ex<g ref="char:EOLhyphen"/>planation 2.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>36.</hi> Shoulder your Muskets.</cell>
+                           <cell>36. Turn your Musket with the Right Hand, that the Barrel comes outwards, and the Guard inwards againſt
+<pb n="39" facs="tcp:60340:21"/>the Left Shoulder; take at the ſame time the Butt-end with the Left Hand, laying your Thumb in the hollow of the ſame; tell flowly 1, 2, and bring it then with both your Hands upon your Left Shoulder, not moving the Head; tell again 1, 2, quit the Right Hand, and let it fall quickly down along the Right Side, and obſerve fur<g ref="char:EOLhyphen"/>ther the Poſture, as in Explan. 1. is ſhewn.</cell>
+                        </row>
+                        <pb n="40" facs="tcp:60340:22"/>
+                        <row>
+                           <cell>
+                              <hi>37.</hi> Reſt your Muskets.</cell>
+                           <cell>37. This is done as in Explan. 1. Tell then 1, 2, and quickly Poiſe as in Explanation 2. is ſhewn. Tell again 1, 2, and do as is di<g ref="char:EOLhyphen"/>rected in Number 3. Let looſe your Right Hand from behind the Pan, and with the two or three foremoſt Fin<g ref="char:EOLhyphen"/>gers, according to the breadth of the Pan, cover the ſame, lay your Thumb behind the Pan, and keep the Poſture as in Explana<g ref="char:EOLhyphen"/>tion 3. is directed.</cell>
+                        </row>
+                        <pb n="41" facs="tcp:60340:22"/>
+                        <row>
+                           <cell>
+                              <hi>38.</hi> Order your Muskets.</cell>
+                           <cell>38. Raiſe your Musket with both Hands ſtrait upwards, without bringing it higher or lower; tell ſlowly 1, 2, then let looſe the Right Hand from the Pan, ſinking the Muſ<g ref="char:EOLhyphen"/>ket with the Left Hand, taking at the ſame Moment the Musket with a full Right Hand near the Muzzel, ſo that the Thumb lies upwards againſt the Barrel, and reaches the end of the Muzzel: Tell again ſlowly 1, 2, quit your Left Hand, and ſet
+<pb n="42" facs="tcp:60340:23"/>down the Butt-end of the Musket at the out<g ref="char:EOLhyphen"/>ſide of your Right Foot (with a quick<g ref="char:EOLhyphen"/>neſs) upon the ground, in ſuch a manner that the Right Foot and Musket come down at one time, the Heels in a ſtraight line, the Toes turned outwards, letting your Arm hang from the Hand to the Elbow by the ſide of the Musket, the Left Hand, in which the Match is, hangs down by the Left ſide, with the ends of the Match outwards.</cell>
+                        </row>
+                        <pb n="43" facs="tcp:60340:23"/>
+                        <row>
+                           <cell>
+                              <hi>39.</hi> Lay down your Muskets.</cell>
+                           <cell>39. Lift up your Right Foot, turning the Muſ<g ref="char:EOLhyphen"/>ket inward at the ſame time, that the Barrel come juſt to your Bo<g ref="char:EOLhyphen"/>dy, ſetting at the fame time the Right Foot againſt the Flat of the Butt-end, then ſtep di<g ref="char:EOLhyphen"/>rectly forward a good ſtep with the Left Foot, lay down the Musket (with a ſtiff Body) upon the ground, with the Lock upward; before you tell 1, 2, 3, raiſe your ſelf up again, ſtepping back with your Left Foot, on the Heel o<g ref="char:EOLhyphen"/>ver
+<pb n="44" facs="tcp:60340:24"/>the Butt-end at the inſide of the ſame, let<g ref="char:EOLhyphen"/>ting both Arms hang down by the Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>40.</hi> Take up your Muskets.</cell>
+                           <cell>
+                              <p n="40">40. Turn your Right Foot upon the Heel again over the Butt<g ref="char:EOLhyphen"/>end of your Musket, and ſet it down behind the ſame; at the ſame time turn the Right Hand with a ſmall motion to the Right Side outward, over the Right Foot, and with<g ref="char:EOLhyphen"/>out intermiſſion, ſtep forward with the Left Foot a large ſtep along the Musket, and at
+<pb n="45" facs="tcp:60340:24"/>the ſame time bring the Right Hand with an outſtretched Arm over the Musket ſtrait forward, and as much as poſſible with a ſtiff Body, taking hold of it with the Right Hand, tell 1, 2, 3, raiſe up your ſelf and the Musket, with the bringing back of the Left Foot; then take up your Right Foot a<g ref="char:EOLhyphen"/>gain, and ſet it at the inſide of the Butt, tur<g ref="char:EOLhyphen"/>ning at the ſame time the Butt-end outward, that the Feet, Muſ<g ref="char:EOLhyphen"/>ket, and the whole Body be in the ſame
+<pb n="46" facs="tcp:60340:25"/>Poſture as they were before the laying down of the Musket, and thus ſtanding with your Musket Ordered, as in Explanation 38. is ſhewn.</p>
+                              <p>
+                                 <hi>The Soldiers muſt alſo Obſerve, That in their laying-down, and taking up of the Musket, not to keep their Hands above the Muzzel, but in the laying down of the Mus<g ref="char:EOLhyphen"/>ket to ſink their Hands as much as is neceſſary, and at the taking up, to take hold of it at the ſame place where their Hand was at their laying it down;
+<pb n="47" facs="tcp:60340:25"/>then ſliding the Hand upwards to the Muzzel, but ſo that it be done with eaſe, and unforc'd.</hi>
+                              </p>
+                              <p>
+                                 <hi>Note,</hi> It is further to be obſerved, That at the grounding and ta<g ref="char:EOLhyphen"/>king up their Arms, the Soldiers keep up their Heads as much as poſſible: And that all may be done more ex<g ref="char:EOLhyphen"/>actly, at one and the ſame time, the Sol<g ref="char:EOLhyphen"/>diers that ſtand next one another in the Ranks, muſt look to the Right Hand Man, (yet without turning
+<pb n="48" facs="tcp:60340:26"/>their Heads aſide) and thoſe that follow one another in Files, muſt alſo obſerve their Lea<g ref="char:EOLhyphen"/>ders.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>41.</hi> Reſt your Muskets.</cell>
+                           <cell>41. Turn your Thumb inwards, and let your Hand ſink downwards as far as the Arm with<g ref="char:EOLhyphen"/>out conſtraint will permit; tell ſlowly 1, 2. raiſe it with the Right Hand, take hold of it at the ſame time with the Left, juſt un<g ref="char:EOLhyphen"/>der the Right Hand, tell 1, 2. let go the Right Hand and cover the Pan, at the ſame
+<pb n="49" facs="tcp:60340:26"/>time falling back with the Right Foot, ſo that the reſting of the Mus<g ref="char:EOLhyphen"/>ket and the falling back of the Right Foot be done at once, hold then the Musket, Body and Feet in the ſame Poſture as in Explan. 37. in Preſenting of the Musket is ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>42.</hi> Club your Muskets.</cell>
+                           <cell>42. Keep your Musket firm in your left Hand, caſt about the ſame with the Right Hand, bring up the Right Foot at the ſame time that the Butt-end is up<g ref="char:EOLhyphen"/>wards, and the Muz<g ref="char:EOLhyphen"/>zel
+<pb n="50" facs="tcp:60340:27"/>downwards, the Lock outwards; at once taking hold of it with the Right Hand about a foot from the Muzzel, that the Right Thumb come up<g ref="char:EOLhyphen"/>wards, and the Left downwards, tell 1, 2. let looſe the Left Hand, and take hold again at the ſame time with a full Left Hand an Inch from the Muzzel, hold it with outſtretched-Arms againſt the Left Shoulder, tell 1, 2. and bring it upon your Shoulder, with the Lock upwards, tell 1, 2. quit your Right
+<pb n="51" facs="tcp:60340:27"/>Hand nimbly and let it hang down by your Side.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>43.</hi> Reſt your Muskets.</cell>
+                           <cell>43. Turn the Musket with your Left Hand inwards, and at the ſame time take hold with the Right above the Left, the Thumb upwards, and the El<g ref="char:EOLhyphen"/>bows in a ſtrait Line, tell 1, 2. bring the ſame nimbly with both Hands before the Body, tell 1, 2. let looſe your Left Hand, ſinking the Right Hand and Mus<g ref="char:EOLhyphen"/>ket a little, and taking it at the ſame time with
+<pb n="52" facs="tcp:60340:28"/>the Left Hand turned, both Thumbs turned againſtone another, tell 1, 2. looſe your Right Hand and turning the Musket bring the Butt<g ref="char:EOLhyphen"/>end down, &amp; reſt your Musket with the ſtep<g ref="char:EOLhyphen"/>ing back of the Right Foot, and obſerve fur<g ref="char:EOLhyphen"/>ther the Poſture as has been expreſſed in the reſting of the Mus<g ref="char:EOLhyphen"/>ket.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>44.</hi> Shoulder your Muskets.</cell>
+                           <cell>44. Bring up your Mus<g ref="char:EOLhyphen"/>ket with the bringing up of the Right Foot to its Poiſe, with a ſtretched out Arm
+<pb n="53" facs="tcp:60340:28"/>ſtraight before you, and take hold of it un<g ref="char:EOLhyphen"/>der the Pan, with your Right Hand, ſo that the Poyſing of the Musket, and the ſet<g ref="char:EOLhyphen"/>ting down of the Right Foot, be done at the ſame time.</cell>
+                        </row>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">Take heed to Make Ready at Three Words of Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>1.</hi> Make Ready</cell>
+                           <cell>This is to be done as hath been ſhewn before at large in the Exerciſe of the Mus<g ref="char:EOLhyphen"/>ket, from Explan. 1. to Explan. 8. inclu<g ref="char:EOLhyphen"/>ſive.</cell>
+                        </row>
+                        <pb n="54" facs="tcp:60340:29"/>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> Preſent.</cell>
+                           <cell>This is done as has been ſhewn in Explan. 9, 10.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> Give Fire</cell>
+                           <cell>This is done as in Explan. 11. after which you go for<g ref="char:EOLhyphen"/>ward until you are again Ready Charged, and then Shoulder your Muskets.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="55" facs="tcp:60340:29"/>
+               <head>Here follows the Exerciſe of a Granadeer, with the Expla<g ref="char:EOLhyphen"/>nation, beginning when they are under Arms, <hi>viz.</hi> the Fire-lock Shouldered.</head>
+               <p>THE Poſture, and what a Granadeer is further to ob<g ref="char:EOLhyphen"/>ſerve in the Exerciſe of his Arms, is fully ſhewn in the <hi>General Obſerva<g ref="char:EOLhyphen"/>tions,</hi> where the Musket is Treated of.</p>
+               <p>It is alſo to be Obſerved, That when the Granadeers ſtand in a Bo<g ref="char:EOLhyphen"/>dy with the Musketeers, that they then muſt make the ſame Motions as the Musketeers, becauſe they do not then meddle with their Gra<g ref="char:EOLhyphen"/>nades or Bayonets.</p>
+               <div type="table">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">Words of Com<g ref="char:EOLhyphen"/>mand.</cell>
+                           <cell role="label">Explanation.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Take heed Granadeers, to Exerciſe your Fire-locks.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <pb n="56" facs="tcp:60340:30"/>
+                        <row>
+                           <cell>
+                              <hi>1.</hi> Ioyn your Right Hand to your Fire-locks.</cell>
+                           <cell>1. THis is done the ſame way as that of the Musket, Explan. 1.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> Poiſe your Fire-locks.</cell>
+                           <cell>2. This is done the ſame way as that of the Musket, Explan. 2.</cell>
+                        </row>
+                        <pb n="57" facs="tcp:60340:30"/>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> Ioin your Left Hand to your Fire-locks.</cell>
+                           <cell>3. This is done as that of the Musket, in Ex<g ref="char:EOLhyphen"/>plan. 3. except that you are to take up the Sling, and join it with your Left Hand under your Fire-lock, and your Right Thumb upon the Cock, and your Fore-finger upon the Tricker, and the other Fingers behind, or below the Guard.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>4.</hi> Cock your Fire-locks.</cell>
+                           <cell>4. Keep your Thumb upon the Cock, and bring up your Fire<g ref="char:EOLhyphen"/>lock with both Hands ſtraight before you,
+<pb n="58" facs="tcp:60340:31"/>at the ſame time bring<g ref="char:EOLhyphen"/>ing up your Right Foot, your Arms half ſtretched out, that you may the more eaſily bend the Cock, tell 1, 2, and then Cock, thruſting your Fire<g ref="char:EOLhyphen"/>lock nimbly from you with both Hands, hold<g ref="char:EOLhyphen"/>ing your Thumb up<g ref="char:EOLhyphen"/>on the Cock, without touching the Tricker with your Fingers, keep your Arms out<g ref="char:EOLhyphen"/>ſtretched before your Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>5.</hi> Preſent.</cell>
+                           <cell>5. In Preſenting, you take away your thumb
+<pb n="59" facs="tcp:60340:31"/>from the Cock, and do as is ſhewn in Explan. 10. except that you are not to open your Pan.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>6.</hi> Give Fire.</cell>
+                           <cell>6. This is done as with the Musket, in Ex<g ref="char:EOLhyphen"/>plan. 11.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>7.</hi> Recover your Arms.</cell>
+                           <cell>7. This is done as with the Musket in Ex<g ref="char:EOLhyphen"/>plan. 12.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>8.</hi> Handle your Slings.</cell>
+                           <cell>8. Turn with both Hands the Fire-lock, that your Lock come outwards, holding it
+<pb n="60" facs="tcp:60340:32"/>with your Right Hand before your Body, the thumb upwards, draw with you Left Hand your Sling quickly in an equal line, with your Fire-lock to the Left Side, the Thumb upwards, and ſtand thus till the following word of Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>9.</hi> Sling your Fire-locks on your Soulders</cell>
+                           <cell>9. Bring your Sling with your Left Hand juſt above your Right Shoulder, and at the ſame time bring your Fire-lock with your Right Hand under your Left Elbow;
+<pb n="61" facs="tcp:60340:32"/>bring the Sling over your Head, draw the Sling with your Left Hand in the letting looſe of the Right, that the Fire-lock hang upon your right Shoulder, with the Muzzel up, and the Butt-end downwards; tell 1, 2, let looſe your Left Hand, and let it hang ſtraight down as the Right Hand.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>10.</hi> Handle your Matches.</cell>
+                           <cell>10. Bring both Hands readily with half out<g ref="char:EOLhyphen"/>ſtretched Arms before your Body, about the heighth of your Shoul<g ref="char:EOLhyphen"/>der;
+<pb n="62" facs="tcp:60340:33"/>take at the ſame time, with your Right Hand, the lowermoſt end of the Match, your Thumb under, and your two foremoſt Fingers above; tell 1, 2, and bring it over the back of your Hand between your Thumb and your two fore Fingers; tell 1, 2, thruſt out the Left Hand with the Match quickly forwards, let<g ref="char:EOLhyphen"/>ting at the ſame time the Right Hand hang down upon the Bag.</cell>
+                        </row>
+                        <pb n="63" facs="tcp:60340:33"/>
+                        <row>
+                           <cell>
+                              <hi>11.</hi> Handle your Granades.</cell>
+                           <cell>11. Keep your Left Hand in its former Poſture, face nimbly upon the Left Foot to the Right, at the ſame time lifting up the co<g ref="char:EOLhyphen"/>ver of your Granade Pouch with your right Hand, take the Gra<g ref="char:EOLhyphen"/>nade; tell 1, 2, bring it with an out-ſtretched Arm, in a ſtraight Line with your Left Hand, your Thumb againſt the Fuſe, and ſtand in this Poſture.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>12.</hi> Open your Fuſe.</cell>
+                           <cell>12. Hold ſtill your Left Hand, and bring the
+<pb n="64" facs="tcp:60340:34"/>Granade to your mouth with your Right Hand, tell 1, 2, open the Fuſe with your Teeth, tell again 1, 2, and thruſt it nimbly from you to its former place.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>13.</hi> Guard the Fuſe with your Thumb.</cell>
+                           <cell>13. Cover the Fuſe with your Thumb, without making any other mo<g ref="char:EOLhyphen"/>tion.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>14.</hi> Blow your Matches.</cell>
+                           <cell>14. Bring up the Match before your Mouth, tell 1, 2, blow it off hard and quick, and thruſt it at the ſame time to its former place.</cell>
+                        </row>
+                        <pb n="65" facs="tcp:60340:34"/>
+                        <row>
+                           <cell>
+                              <hi>15.</hi> Fire and throw your Granades</cell>
+                           <cell>15. Meet the Granade with your Left Hand, a little downwards towards the Righ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Side, as the Arms w<gap reason="illegible" resp="#MURP" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> beſt permit, to which ſide you turn your Bo<g ref="char:EOLhyphen"/>dy and Face a little, fire the Fuſe, tell ſlow<g ref="char:EOLhyphen"/>ly 1, 2, 3, in which telling bring back the Right Hand a little, with the Granade, throw it with a ſtiff Arm; ſtepping forward with the Right Foot, in an equal Line with the Left, bringing down the Left Hand with the Match to the
+<pb n="66" facs="tcp:60340:35"/>former place, letting the Right Hand hang down by the Pouch; remain in that Poſture, and expect the follow<g ref="char:EOLhyphen"/>ing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>16.</hi> Return your Matches.</cell>
+                           <cell>16. Bring again both Hands ſtraight before your Body, as in Ex<g ref="char:EOLhyphen"/>plan. 10. take the Match, put it in its former place, in ſuch a manner as in the Exerciſe of the Mus<g ref="char:EOLhyphen"/>ket, Explan. 13. tell 1, 2, and let both Arms hang down by your Body.</cell>
+                        </row>
+                        <pb n="67" facs="tcp:60340:35"/>
+                        <row>
+                           <cell>
+                              <hi>17.</hi> Handle your Slings.</cell>
+                           <cell>17. Take the middle of the Sling with your Right Hand, and with the Left Hand below, about a Hands breadth from the Fire-lock, lift up the Fire-lock with the Left Hand, ſo that the Elbow comes through under the Fire-lock, lying upon the Arm and Shoulder; let go your Left Hand from the Sling, and take hold of your Fire-lock about a Hands breadth a<g ref="char:EOLhyphen"/>bove the Lock; let the Stock come to lie between the Thumb
+<pb n="68" facs="tcp:60340:36"/>and the two foremoſt Fingers, and hold it ſo with a ſtretched Arm ſo much as the Slings will permit, with the Butt-end be<g ref="char:EOLhyphen"/>fore you.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>18.</hi> Poiſe your Fire-lock.</cell>
+                           <cell>18. Bring the Sling with your Right Hand over your Head, and your Pire-lock with your Left Hand, and mount it with half ſtretched Arms, the Barrel turn<g ref="char:EOLhyphen"/>ed forwards, let go your Right Hand from the Sling, turn your Fire-lock with your Left Hand, that the
+<pb n="69" facs="tcp:60340:36"/>Lock come outwards, and put at the ſame time your Right Hand under the Cock, the Thumb upwards, then thruſt the Fire-lock quickly from you, let go your Left Hand; at the ſame time you muſt obſerve that your Right Hand muſt be equal with your Shoul<g ref="char:EOLhyphen"/>der.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>19.</hi> Caſt about to Charge.</cell>
+                           <cell>19. Take the Fire-lock with your Left Hand, about a hands breadth from the Lock, the Thumb upwards, turn it about that the Bar<g ref="char:EOLhyphen"/>rel
+<pb n="70" facs="tcp:60340:37"/>come outwards, and do further as in the Exerciſe of the Musket Explan. 19. was directed.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>20.</hi> Draw your Bayonets.</cell>
+                           <cell>20. Bring your Fire-lock with both your Hands to your Body, tell 1, 2, take your Bayonet with your Right Hand, tell again 1, 2, draw it, and bring it with an out<g ref="char:EOLhyphen"/>ſtretched Arm ſtraight before your Body in a right line with your Shoulder, holding the Bayonet, and the Thumb upwards, and
+<pb n="71" facs="tcp:60340:37"/>the flat of the Blade towards your Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>21.</hi> Screw your Bayonets in the Muzzels.</cell>
+                           <cell>21. Put your Bayonet in the Barrels, tell 1, 2, turning about the Guard towards you, that it may lye faſt, and flat, take hold of the Muzzel of your Fire-lock with your right hand, the thumb upwards, tell 1, 2, thruſting it with both Arms nimbly from your Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>22.</hi> Reſt your Bayonets.</cell>
+                           <cell>22. Mount your Bayo<g ref="char:EOLhyphen"/>net with both Hands,
+<pb n="72" facs="tcp:60340:38"/>turning at the ſame time, without reſting, upon the Left Heel, to the Right; As you Face let go your Right Hand, and bring it un<g ref="char:EOLhyphen"/>der the Cock, that the Barrel be turned to<g ref="char:EOLhyphen"/>wards your Body, tell 1, 2, fall back Hand and Foot, and keep the Poſture ſhewn you in the reſting of the Musket, Explan. 37.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>23.</hi> Charge your Bayonets Breaſt high.</cell>
+                           <cell>23. Bring your Bayonet nimbly up with both hands; and the bring<g ref="char:EOLhyphen"/>ing up of your Right
+<pb n="73" facs="tcp:60340:38"/>Foot, in which bring<g ref="char:EOLhyphen"/>ing up, you bring your Right Hand under, ſo that the Butt reſt up<g ref="char:EOLhyphen"/>on your Fingers, the Thumb outwards up-the Butt-end, tell 1, 2, fall back with your Right Foot, charge your Bayonet Breaſt high, in which char<g ref="char:EOLhyphen"/>ging the Butt-end lies in a full Right Hand, and the Thumb upon it.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>24.</hi> Caſt about your Bayo<g ref="char:EOLhyphen"/>nets to the left ſide.</cell>
+                           <cell>24. Bring up your Fire-Lock ſtraight before you, with the bringing up of your Right Foot; letting looſe at the
+<pb n="74" facs="tcp:60340:39"/>ſame time your Right Hand from the Butt, and bring it under the Cock, turn your Fire-Lock with both your Hands, ſo that the Bar<g ref="char:EOLhyphen"/>rel comes outwards, tell 1, 2, then proceed further as has been ſhewn in the Caſting about the Musket, Explan. 19, except that in ſtepping for<g ref="char:EOLhyphen"/>ward with your Right Foot, you lay your Right Hand upon the guard of your Bayo<g ref="char:EOLhyphen"/>net, and at once turn it from you, remain<g ref="char:EOLhyphen"/>ing thus with out<g ref="char:EOLhyphen"/>ſtretched Arms till the
+<pb n="75" facs="tcp:60340:39"/>following Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>25.</hi> Recover your Bayonets.</cell>
+                           <cell>25. Bring your Bayonet with both Hands to your Body, tell 1, 2, Draw it out of the Barrel, hold it out with a ſtretched Arm before your Body, as in Explan. 20. is ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>26.</hi> Put up your Bayonets.</cell>
+                           <cell>26. Turn your Bayonet with the Point down<g ref="char:EOLhyphen"/>wards, on your Left Side; tell 1, 2, put it in the Scabbard; tell again 1, 2, take hold of your Fire-lock with
+<pb n="76" facs="tcp:60340:40"/>your Right Hand by the Muzzel, thruſting it readily from you, with ſtretched Arms.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>27.</hi> Half Cock your Fire-locks.</cell>
+                           <cell>27. Bring your Fire-locks with both Hands mounted before your Body, as in Explan. 4. the Barrel turned to<g ref="char:EOLhyphen"/>wards your Body, Fa<g ref="char:EOLhyphen"/>cing to the Right, upon the Left Heel, with<g ref="char:EOLhyphen"/>out intermiſſion; in which Turning you let go your Right Hand, take hold of the Cock with the Right Thumb, your Fingers under againſt the
+<pb n="77" facs="tcp:60340:40"/>Guard, as in Explan. 3. tell 1, 2, and half bend your Cock, then bring the ſame Hand under the Cock, holding your Fire-lock exact<g ref="char:EOLhyphen"/>ly and readily before you, in ſuch a Poſture as often has been ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>28.</hi> Blow your Pans.</cell>
+                           <cell>28. Do this as with the Musket, Explan. 14.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>29.</hi> Handle your Primers.</cell>
+                           <cell>29. This is done as with the Musket, Ex<g ref="char:EOLhyphen"/>plan. 15. onely the Muzzel is held a little lower.</cell>
+                        </row>
+                        <pb n="78" facs="tcp:60340:41"/>
+                        <row>
+                           <cell>
+                              <hi>30.</hi> Prime.</cell>
+                           <cell>30. This is done as with the Musket, Explan. 16.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>31.</hi> Shut your Pans.</cell>
+                           <cell>31. Let fall your Pri<g ref="char:EOLhyphen"/>mer, take hold of the ſide of the Steel with your Thumb upwards, and your two foremoſt Fingers under, ſhut your Pan, tell ſlowly 1, 2, and do further as in the Handling of the Musket in Explan. 17. is ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>32.</hi> Caſt about to Charge.</cell>
+                           <cell>32. This is done as with the Musket, Explan. 19.</cell>
+                        </row>
+                        <pb n="79" facs="tcp:60340:41"/>
+                        <row>
+                           <cell>
+                              <hi>33.</hi> Handle your Cartridges.</cell>
+                           <cell>33. This is done as with the Musket, Explan. 20.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>34.</hi> Open your Cartridges.</cell>
+                           <cell>34. Bring the Cartridge before your Mouth, bite off the top, tell 1, 2, and bring it a<g ref="char:EOLhyphen"/>gain to its former place, holding the Cartridge with the Thumb upwards.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>35.</hi> Charge with your Cartrid<g ref="char:EOLhyphen"/>ges.</cell>
+                           <cell>35. Bring the Cartridge juſt before the Muz<g ref="char:EOLhyphen"/>zel, turn it up with your Hand, put it in the Barrell, holding your two foremoſt
+<pb n="80" facs="tcp:60340:42"/>Fingers upon the Muz<g ref="char:EOLhyphen"/>zel till the following word of Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>36.</hi> Draw forth your Ram<g ref="char:EOLhyphen"/>mers.</cell>
+                           <cell>36. This is done as with the Musket, Explan. 25.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>37.</hi> Hold them up.</cell>
+                           <cell>37. This is done as with the Musket, Explan. 26.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>38.</hi> Shorten them againſt your Breaſt.</cell>
+                           <cell>38. This is done as with the Musket, Explan. 27.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>39.</hi> Put them in the Barrels.</cell>
+                           <cell>39. This is done as with the Musket, Explan. 28.</cell>
+                        </row>
+                        <pb n="81" facs="tcp:60340:42"/>
+                        <row>
+                           <cell>
+                              <hi>40.</hi> Ram down your Charge.</cell>
+                           <cell>40. This is done as with the Musket, Explan. 29.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>41.</hi> Recover your Rammers.</cell>
+                           <cell>41. This is done as with the Musket, Explan. 30.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>42.</hi> Hold them up.</cell>
+                           <cell>42. This is done as with the Musket, Explan. 31.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>43.</hi> Shorten them againſt your Breaſts.</cell>
+                           <cell>43. This is done as with the Musket, Explan. 32.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>44.</hi> Put them in their places.</cell>
+                           <cell>44. This is done as with the Musket, Explan. 33.</cell>
+                        </row>
+                        <pb n="82" facs="tcp:60340:43"/>
+                        <row>
+                           <cell>
+                              <hi>45.</hi> Your Right Hand under the Locks.</cell>
+                           <cell>45. This is done as with the Musket, Explan. 34.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>46.</hi> Poiſe your Fire-locks.</cell>
+                           <cell>46. This is done as with the Musket, Explan. 35.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>47.</hi> Shoulder your Fire-locks.</cell>
+                           <cell>47. This is done as with the Musket, Explan. 36.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>48.</hi> Reſt your Fire-locks.</cell>
+                           <cell>48. This is done as with the Musket, Explan. 1, 2. tell then 1, 2, and do further as with the Musket, Explan. 3. onely putting your Thumb upon the Cock, and the Fingers
+<pb n="83" facs="tcp:60340:43"/>under, againſt the Guard.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>49.</hi> Order your Fire-locks.</cell>
+                           <cell>49. This is done as with the Musket, Explan. 38.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>50.</hi> Lay down your Fire-locks.</cell>
+                           <cell>50. This is done as with the Musket, Explan. 39.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>51.</hi> Take up your Fire-locks.</cell>
+                           <cell>51. This is done as with the Musket, Explan. 40.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>52.</hi> Reſt your Fire-locks.</cell>
+                           <cell>52. This is done as with the Musket, Explan. 41. but with the diffe<g ref="char:EOLhyphen"/>rence as here above in Explan. 49.</cell>
+                        </row>
+                        <pb n="84" facs="tcp:60340:44"/>
+                        <row>
+                           <cell>
+                              <hi>53.</hi> Club your Fire-locks.</cell>
+                           <cell>53. This is done as with the Musket, Explan. 42.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>54.</hi> Reſt your Fire-locks.</cell>
+                           <cell>54. This is done as with the Musket, Explan. 43, yet with the dif<g ref="char:EOLhyphen"/>ference aforeſaid in Explan. 48.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>55.</hi> Shoulder your Fire-locks.</cell>
+                           <cell>55. This is done as with the Musket, Explan. 44, only putting your Right Hand under the Cock before the bring<g ref="char:EOLhyphen"/>ing up of your Fire-Lock.</cell>
+                        </row>
+                        <pb n="85" facs="tcp:60340:44"/>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">Take heed to make ready to give Fire at Three Words of Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>56. 1.</hi> Make ready.</cell>
+                           <cell>56. This is done as in the firſt Three Ex<g ref="char:EOLhyphen"/>planations is largely ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> Preſent.</cell>
+                           <cell>This is done as in Explan. 4 and 5.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> Give Fire.</cell>
+                           <cell>This done as in Ex<g ref="char:EOLhyphen"/>plan. 6 and 7.</cell>
+                        </row>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">Take heed to make ready to Fire and throw your Granades at Three Words of Command.</cell>
+                        </row>
+                        <pb n="86" facs="tcp:60340:45"/>
+                        <row>
+                           <cell>
+                              <hi>57. 1</hi> Make ready.</cell>
+                           <cell>57. This is done as is ſhewn from Explan. 8 to 13 incluſive.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>2</hi> Blow your Matches.</cell>
+                           <cell>This is done as in Explan. 14.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> Fire and throw your Granades.</cell>
+                           <cell>This is done as in Explan. 15.</cell>
+                        </row>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">Take heed to make ready to uſe your Bayonets.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>58. 1.</hi> Make ready.</cell>
+                           <cell>58. This is done as hath been ſhewn before in the Manual, from Ex<g ref="char:EOLhyphen"/>plan. 16 to Explan. 22 incluſive.</cell>
+                        </row>
+                        <pb n="87" facs="tcp:60340:45"/>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> Charge your Bayonets Breaſt high.</cell>
+                           <cell>This is done as in Explan. 23.</cell>
+                        </row>
+                        <row>
+                           <cell role="label"> </cell>
+                           <cell role="label">Take heed to make ready your Fire-locks again.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>59.</hi> Make ready your Fire-locks.</cell>
+                           <cell>59. This is likewiſe done as hath at large been ſhewn in the Exerciſe of the Grana-deer, from Explan. 24 to Explan. 47 inclu<g ref="char:EOLhyphen"/>ſive.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="88" facs="tcp:60340:46"/>
+               <head>The Exerciſe of the Pike, be<g ref="char:EOLhyphen"/>ginning from the Advance.</head>
+               <p>THE Poſture of a Pikeman, with his Pike Advanced, muſt be the ſame with that of a Musketeer with the Musket Shouldered, <hi>viz.</hi> That he ſtand with a ſtraight Body, hold up his Head, look lively, his Eyes always upon the Commanding Officer, make no other Motion then what he is Commanded, his Feet muſt be a little Pace diſtant from each other, his Heels in a ſtraight line, his Toes turned a little outwards, holding the Butt-end of the Pike in his Right Hand, ſtretched down
+<pb n="89" facs="tcp:60340:46"/>along his Body, the back of his Hand turned outwards, but with<g ref="char:EOLhyphen"/>out conſtraint, the Pike muſt be kept cloſe to his Shoulder, and the out ſide of his Thigh, that it may ſtand ſtraight upward, this muſt be always obſerved with an Advanced Pike.</p>
+               <div type="table">
+                  <pb n="90" facs="tcp:60340:47"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">Words of Com<g ref="char:EOLhyphen"/>mand.</cell>
+                           <cell role="label">Explanation.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Pikes take heed to your Exerciſe.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>1.</hi> To the Front, Charge.</cell>
+                           <cell>
+                              <p n="1">1. THis as all other Chargings of the Pike, and likewiſe re<g ref="char:EOLhyphen"/>turning to the former Poſture, muſt be done at Three Motions; As Firſt, take hold of the Pike; Secondly, bring it before your Body; Thirdly, Charge your Pike, as is more largely to be ſhewn in the following Pages.</p>
+                              <pb n="91" facs="tcp:60340:47"/>
+                              <p>Firſt, You take hold of the Pike with your Left Hand, juſt at the Right Shoulder.</p>
+                              <p>Secondly, You tell 1, 2, and bring the ſame with both Hands and outſtretched Arms with a nimble Moti<g ref="char:EOLhyphen"/>on, ſtraight before your Body, at the ſame time turning your Hand, ſo that the Thumb which was under comes upper<g ref="char:EOLhyphen"/>moſt, holding the Pike in a full Hand, you muſt alſo at the ſame time turn the Left Foot upon your Heel a little inwards, in the
+<pb n="92" facs="tcp:60340:48"/>bringing forwards of the Pike, that the Toes come forwards, and at the ſame time lift<g ref="char:EOLhyphen"/>ing-up the Right Foot a little, and turning it to the Right Side out<g ref="char:EOLhyphen"/>wards, that the Heel come in a ſtraight Line with the hollow of the Left Foot.</p>
+                              <p>Thirdly, Tell 1, 2, and ſtep nimbly with the Right Foot behind the Left, that the hol<g ref="char:EOLhyphen"/>low of the Right ſtand in a ſtraight Line with the Heel of the Left Foot, and pulling at the ſame time the Pike with
+<pb n="93" facs="tcp:60340:48"/>both Hands back<g ref="char:EOLhyphen"/>wards, Charging it at the height of a Mans Breaſt, and ſo, that at one time the Right Foot and the Pike come down together. You muſt further ob<g ref="char:EOLhyphen"/>ſerve this following Poſture, namely, that the Right Arm ſtretch<g ref="char:EOLhyphen"/>ed out backwards lie juſt along the Pike, the Right Hand at the end of the Pike, the Pike between the Thumb and foremoſt Fingers of the Left Hand, and againſt the Body, and in a ſtraight Line with the Right Hand; the
+<pb n="94" facs="tcp:60340:49"/>Left Elbow muſt be lifted a little from the Body, the Head and Body kept ſtraight, the Right. Knee ſtiff and ſtraight, and the Left a little bent forwards, that the Pike may not only be kept firm in this Poſture, but muſt lie with a flat Spear the aforeſaid height of a Mans Breaſt; which Poſture muſt be obſer<g ref="char:EOLhyphen"/>ved in all Charges of the Pike.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> As you were.</cell>
+                           <cell>
+                              <p n="2">2. As the Pike in the former Commands was Charged at Three
+<pb n="95" facs="tcp:60340:49"/>Motions, ſo muſt it be returned to your Ad<g ref="char:EOLhyphen"/>vance.</p>
+                              <p>As Firſt, Preſs the Right Hand ſtrongly down, bring the Left Hand upwards, then bring the Pike with both Hands, and out<g ref="char:EOLhyphen"/>ſtretched Arms, nim<g ref="char:EOLhyphen"/>bly before the middle of your Body, at the ſame time bringing the Right Foot forwards, and placing the Heel in a ſtraight Line with the hollow of the Left Foot.</p>
+                              <p>Secondly, You tell 1, 2, bring the Pike with both Hands to
+<pb n="96" facs="tcp:60340:50"/>your Shoulder, at the ſame time turning the Hand and Foot as a<g ref="char:EOLhyphen"/>bove is ſhewn, tell 1, 2, let looſe your Left Hand, and let it hang down by the Bo<g ref="char:EOLhyphen"/>dy, obſerving further in this Poſture what is directed in Explan. 1.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> To the Right, Charge.</cell>
+                           <cell>3. Take hold again of the Pike with the Left Hand by your Shoul<g ref="char:EOLhyphen"/>der, tell 1, 2, bring it with outſtretched Arms juſt before you, obſerving the Motion both with Hand and Foot as in Explan. 1.
+<pb n="97" facs="tcp:60340:50"/>tell 1, 2, turning nim<g ref="char:EOLhyphen"/>bly upon the Left Foot to the Right, turning at the ſame time the Heel of the Right Foot the Fourth part of a Circle, and againſt the hollow of the Left, obſerving that the Pike in your turn<g ref="char:EOLhyphen"/>ing may always be kept with outſtretched Arms upwards in a ſtraight Line, tell 1, 2, ſtep nimbly back with the Right Foot, Charge your Pike; And fur<g ref="char:EOLhyphen"/>ther obſerve to keep this Poſture as in Ex<g ref="char:EOLhyphen"/>plan. 1.</cell>
+                        </row>
+                        <pb n="98" facs="tcp:60340:51"/>
+                        <row>
+                           <cell>
+                              <hi>4.</hi> To the Left as you were.</cell>
+                           <cell>4. Raiſe your Pike with a quick Motion, at the ſame time bringing up your Right Foot, turn nimbly upon the Left Foot to the Left, bring<g ref="char:EOLhyphen"/>ing the Pike with out<g ref="char:EOLhyphen"/>ſtretched Arms juſt be<g ref="char:EOLhyphen"/>fore the Body, tell 1, 2, bring it to your Right Shoulder, obſerving what is ſhewn in Ex<g ref="char:EOLhyphen"/>plan. 2.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>5.</hi> To the Left, Charge.</cell>
+                           <cell>5. Take hold of the Pike with the Left Hand at your Right Shoulder, as before, tell 1, 2, bring the
+<pb n="99" facs="tcp:60340:51"/>ſame with ſtraight Arms nimbly before the Body, tell 1, 2, turn nimbly upon the Left Foot to the Left, that the Heel of the Right Foot come to ſtand the Fourth part of a Circle againſt the Left Foot, tell 1, 2, Charge the Pikes as before, Breaſt high, and at the ſame time ſtepping back with the Right Foot, keep the Poſture ſhewn in the former Chargings.</cell>
+                        </row>
+                        <pb n="100" facs="tcp:60340:52"/>
+                        <row>
+                           <cell>
+                              <hi>6.</hi> To the Right as you were.</cell>
+                           <cell>6. This is done as be<g ref="char:EOLhyphen"/>fore; the Pike is raiſed up readily with the bringing up of the Right Foot, tell 1, 2, turn nimbly upon the Left Foot to the Right, tell again 1, 2, bring the Pike to the Right Shoulder, obſerving what is ſhewn in Ex<g ref="char:EOLhyphen"/>plan. 2.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>7.</hi> To the Right about Charge.</cell>
+                           <cell>7. Take hold of your Pike with your Left Hand at the Right Shoulder, as before, tell 1, 2, bring it then with outſtretched Arms be<g ref="char:EOLhyphen"/>fore
+<pb n="101" facs="tcp:60340:52"/>the middle of your Body, tell 1, 2, turn nimbly on the Left Heel to the Right about, turning the Right Heel an half Cir<g ref="char:EOLhyphen"/>cle againſt the hollow of the left Foot, tell 1, 2, Charge Breaſt high, as before, ſtep<g ref="char:EOLhyphen"/>ping back with the Right Foot, and ob<g ref="char:EOLhyphen"/>ſerve further as in Ex<g ref="char:EOLhyphen"/>plan. 1.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>8.</hi> To the Left as you were.</cell>
+                           <cell>8. Bring the Pike, as before, ſtraight up, at the ſame time bring up the Right Foot, tell 1, 2, turn nimbly up<g ref="char:EOLhyphen"/>on
+<pb n="102" facs="tcp:60340:53"/>the Left Foot to the Left about, and bring the Pike in turning, with ſtraight Arms juſt before the middle of the Body, tell 1, 2, and bring it to the Shoul<g ref="char:EOLhyphen"/>der as before, obſer<g ref="char:EOLhyphen"/>ving what is ſhewn in Explan. 2.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>9.</hi> To the Left about Charge.</cell>
+                           <cell>9. Take hold of the Pike again at the Right Shoulder, tell 1, 2, and bring it with both Hands, and outſtretch<g ref="char:EOLhyphen"/>ed Arms ſtraight be<g ref="char:EOLhyphen"/>fore the middle of your Body, tell 1, 2, turn nimbly upon the
+<pb n="103" facs="tcp:60340:53"/>Left Foot to the Left about; tell again 1, 2, Charge the Pike Breaſt high, at the ſame time bring back the Right Foot, and keep in the Poſture as before was told you.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>10.</hi> To the Right as you were.</cell>
+                           <cell>10. This is done as for<g ref="char:EOLhyphen"/>merly, namely, that you bring the Pike up nimbly before you, with the bringing up of the Right Foot, tell 1, 2, and turn nimbly upon the Left Foot to the Right about, holding the Pike with outſtretched Arms juſt
+<pb n="104" facs="tcp:60340:54"/>before the middle of your Body; tell again 1, 2, and bring the Pike again to your Shoulder, obſerving what is ſaid before.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>11.</hi> Shoulder your Pikes.</cell>
+                           <cell>11. Take hold of the Pike with the Left Hand at the Right Shoulder, tell 1, 2, and bring it with both Hands juſt before the middle of your Body, tell again 1, 2, and ſet your Right Foot an or<g ref="char:EOLhyphen"/>dinary Pace backwards, turning the Left Foot upon the Heel, that
+<pb n="105" facs="tcp:60340:54"/>both Feet ſtand in an equal line, the Toes turned outwards; let go the Pike with the Right Hand at the ſame time as you tread back, and tur<g ref="char:EOLhyphen"/>ning the Foot, let the Left Hand and the Spear ſink down backwards, till the Hand comes juſt about the middle of the Bo<g ref="char:EOLhyphen"/>dy; take hold of the Pike again immediate<g ref="char:EOLhyphen"/>ly with the Right Hand about the height of, and againſt the Shoulder, in ſuch manner, that the ſtep<g ref="char:EOLhyphen"/>ping back of the Right
+<pb n="106" facs="tcp:60340:55"/>Foot, and the taking hold of the Pike with the Right Hand, is done at one time, then hold the Pike thus with outſtretched Arms, the Thumb up<g ref="char:EOLhyphen"/>wards along the Pike, turned inwards to<g ref="char:EOLhyphen"/>wards the Body, the Pike ſloping in ſuch a manner, that the Butt-end of the Pike come within a Foot of the Ground, tell 1, 2, bring the Pike then upon the Right Shoulder, and at the ſame time bring up the Right Foot. Obſerve, that bringing the Pike upon the
+<pb n="107" facs="tcp:60340:55"/>Shoulder, the ſetting down of the Right Foot, and the letting looſe of the Left Hand, be done all at one <gap reason="illegible" resp="#MURP" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>me; In this Poſture the Heels muſt be in a ſtraight Line, the Toes turned a little out<g ref="char:EOLhyphen"/>wards, the Feet an or<g ref="char:EOLhyphen"/>dinary Pace aſunder, you hold the Pike thus upon the Shoulder with the Right Hand, the Thumb turned up<g ref="char:EOLhyphen"/>wards, and outwards from the Body, that the Pike may the bet<g ref="char:EOLhyphen"/>ter lie upon the Shoul<g ref="char:EOLhyphen"/>der, the Spear mount<g ref="char:EOLhyphen"/>ed, and you muſt take
+<pb n="108" facs="tcp:60340:56"/>care that you keep the Butt-end but a Foot from the Ground, ex<g ref="char:EOLhyphen"/>actly between your two Feet, ſtraight be<g ref="char:EOLhyphen"/>fore your Body, letting your Left Hand hang down by your Body as before is ſhewn; Hold up your Head and Bo<g ref="char:EOLhyphen"/>dy ſtraight, which Po<g ref="char:EOLhyphen"/>ſture muſt always be obſerved with a Shoul<g ref="char:EOLhyphen"/>dered Pike.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>12.</hi> To the Front, Charge.</cell>
+                           <cell>12. Take the Pike with your Right Hand from your Shoulder, turn<g ref="char:EOLhyphen"/>ing at the ſame time upon the Left Foot to
+<pb n="109" facs="tcp:60340:56"/>the Right, placing the Left an ordinary Step from the Right, the Heels in an equal line, the Toes turned out<g ref="char:EOLhyphen"/>wards, as before is directed; In this turn<g ref="char:EOLhyphen"/>ing take hold of the Pike with the Left Hand againſt the mid<g ref="char:EOLhyphen"/>dle of your Body, with outſtretched Arms, a ſtraight Body, the Pike ſloping, as before, the Butt-end a Foot from the Ground, tell 1, 2, then bring the Pike ſtraight up<g ref="char:EOLhyphen"/>wards, with both hands before you, and in this bringing up of the
+<pb n="110" facs="tcp:60340:57"/>Pike, let go your Right Hand, which is above, and take hold with it at the Butt-end of the Pike, and at the ſame time bring the Right Foot forwards, ſo that the taking hold of the Butt, and the ſetting down of the Right Foot be done at one time; tell 1, 2, upon which you ſtep a good Pace back<g ref="char:EOLhyphen"/>wards, with the Right Foot juſt behind the Left, Charge the Pike forwards Breaſt high, ſo that the Charging of the Pike, and the putting down of your
+<pb n="111" facs="tcp:60340:57"/>Right Foot, be done at one time; Keep in the Poſture ſhewn in Ex<g ref="char:EOLhyphen"/>plan. 1.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>13.</hi> Shoulder as you were.</cell>
+                           <cell>13. Raiſe up the Pike nimbly as in Explan. 2. tell 1, 2, and ſtep back with the Right Foot, at the ſame time let<g ref="char:EOLhyphen"/>ting looſe your Right hand from the But-end, take hold of it again (in the ſetting down of your Right Foot) a<g ref="char:EOLhyphen"/>bove the Left Hand the heighth of your Shoulder, tell 1, 2, and obſerve in the Shoul<g ref="char:EOLhyphen"/>dering
+<pb n="112" facs="tcp:60340:58"/>of the Pike, Explan. 11.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>14.</hi> To the Right, Charge.</cell>
+                           <cell>14. Raiſe the Pike with your Right Hand a<g ref="char:EOLhyphen"/>gain from your Shoul<g ref="char:EOLhyphen"/>der, take hold of it with your left hand ſtepping back with the Right Foot, hold it ſloping with ſtraight Arms before your Body, as in Explan. 11. tell 1, 2, bring up the Pike right before you, let<g ref="char:EOLhyphen"/>ting go your Right Hand, and take hold of it again at the Butt-end, placing at the ſame time the Heel of
+<pb n="113" facs="tcp:60340:58"/>the Right, againſt the hollow of the Left Foot, tell 1, 2, and then immediately with the Treading back of the Right Foot, Charge as before Breaſt high.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>15.</hi> To the Left as you were.</cell>
+                           <cell>15. Raiſe the Pike again with the bringing up of your Right Foot, tell 1, 2, quit your Hand from the Butt-end of the Pike; The Pike being in the Left Hand, let the Spear end of the Pike ſink backwards, take hold of it with your Right Hand, about the height
+<pb n="114" facs="tcp:60340:59"/>of your Shoulder, at the ſame time you re<g ref="char:EOLhyphen"/>move your Right Foot, hold the ſame ſlo<g ref="char:EOLhyphen"/>ping with out-ſtretch<g ref="char:EOLhyphen"/>ed Arms, the Body ſtraight, tell 1, 2, bring the Pike upon the Shoulder, with the bringing up of the Right Foot, and ob<g ref="char:EOLhyphen"/>ſerve further the Po<g ref="char:EOLhyphen"/>ſture of a Shoulder'd Pike.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>16.</hi> To the Left Charge.</cell>
+                           <cell>16. Bring again the Pike ſloping before your Body, as often has been ſaid, tell 1, 2, and raiſe it up ſtraight,
+<pb n="115" facs="tcp:60340:59"/>tell again 1, 2, and turn to the Left about upon the Left Foot, and place at the ſame time the Heel the Right Foot againſt the hol<g ref="char:EOLhyphen"/>low of the Left, tell again 1, 2, Charge a<g ref="char:EOLhyphen"/>gain Breaſt high, as before.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>17.</hi> To the Right as you were.</cell>
+                           <cell>17. Raiſe up the Pike again with the bring<g ref="char:EOLhyphen"/>ing up of the Right Foot, tell 1, 2, and turn upon the Left Foot to the Right a<g ref="char:EOLhyphen"/>bout, tell again 1, 2, and bring the Pike (with the removing of
+<pb n="116" facs="tcp:60340:60"/>the Right Foot again) ſloping before the Bo<g ref="char:EOLhyphen"/>dy, tell again 1, 2, bring the Pike upon the Shoulder with the bringing up (as ſaid before of the Right Foot; Obſerve further the Poſture ſhewn be<g ref="char:EOLhyphen"/>fore.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>18.</hi> To the Right about Charge.</cell>
+                           <cell>18. Bring the Pike a<g ref="char:EOLhyphen"/>gain ſloping before your Body, tell 1, 2, raiſe the ſame with the removing of the Feet nimbly, tell 1, 2, turn upon the Left Foot nimbly to the Right, holding the Pike ſtrait
+<pb n="117" facs="tcp:60340:60"/>up with out-ſtretched Arms, at the ſame time the Heel of the Right Foot muſt ſtand a<g ref="char:EOLhyphen"/>gainſt the hollow of the Left, tell again 1, 2, and Charge the Pike Breaſt high, as before has been ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>19.</hi> To the Left as you were.</cell>
+                           <cell>19. Raiſe up the Pike with the bringing up of the Right Foot, tell 1, 2, turn upon the Left Foot to the Left, tell again 1, 2, let go the Hand from the Butt-end, and bring it ſlo<g ref="char:EOLhyphen"/>ping before your Bo<g ref="char:EOLhyphen"/>dy with the remo<g ref="char:EOLhyphen"/>ving
+<pb n="118" facs="tcp:60340:61"/>of the Right Foot, and out-ſtretch<g ref="char:EOLhyphen"/>ed Arms, tell 1, 2, and Shoulder, as often has been ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>20.</hi> To the Left a<g ref="char:EOLhyphen"/>bout Charge.</cell>
+                           <cell>20. Bring the Pike a<g ref="char:EOLhyphen"/>gain ſloping before your Body, tell 1, 2, and raiſe it ſtraight up<g ref="char:EOLhyphen"/>ward with the bring<g ref="char:EOLhyphen"/>ing up of the Right Foot, as in Explan. 12. tell again 1, 2, turn upon the Left Foot to the Left a<g ref="char:EOLhyphen"/>bout, tell 1, 2, and nimbly Charge the Pike with the ſtepping
+<pb n="119" facs="tcp:60340:61"/>back of the Right Foot Breaſt high.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>21.</hi> To the Right as you were.</cell>
+                           <cell>21. Raiſe the Pike ſtraight up nimbly, tell 1, 2, turn upon the Left Foot to the Right a<g ref="char:EOLhyphen"/>bout, hold the Pike with out-ſtretched Arms ſtraight before the Body, tell 1, 2, let go the Right Hand, and take hold of the Pike again with the ſetting back of the Right Foot, ſo as in Explan. 13. tell 1, 2, lay the Pike on the Shoul<g ref="char:EOLhyphen"/>der, with the bringing up of the Right Foot;
+<pb n="120" facs="tcp:60340:62"/>Obſerve further the Poſture of a Shoul<g ref="char:EOLhyphen"/>der'd Pike, as be<g ref="char:EOLhyphen"/>fore.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>22.</hi> Port your Pikes.</cell>
+                           <cell>22. Bring the Pike a<g ref="char:EOLhyphen"/>gain before your Bo<g ref="char:EOLhyphen"/>dy, and do as in Explanation 12. is ſhewn, excepting on<g ref="char:EOLhyphen"/>ly, that the Spear of the Pike do not come ſo low as to be Breaſt high, but a little higher upon the Port.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>23.</hi> To the Front Charge.</cell>
+                           <cell>23. Sink the Left El<g ref="char:EOLhyphen"/>bow with the Pike, ſo
+<pb n="121" facs="tcp:60340:62"/>that it be Breaſt high, and remain in the Po<g ref="char:EOLhyphen"/>ſture ſhewn in a Char<g ref="char:EOLhyphen"/>ged Pike.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>24.</hi> Trail your Pikes with the Spents be<g ref="char:EOLhyphen"/>hind.</cell>
+                           <cell>24. Let go your Right Hand from the Butt<g ref="char:EOLhyphen"/>end, and at the ſame time (holding the Pike with the Left Hand between the foremoſt Fingers &amp; the Thumb) drop the Spear upon the Ground, turning at the ſame time upon the Left Foot to the Right, that the Heels of both Feet ſtand in an equal Line, the Toes turned outward,
+<pb n="122" facs="tcp:60340:63"/>and the Right Hand hanging down by the ſide of the Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>25.</hi> Charge as you were.</cell>
+                           <cell>25. Turn upon your Left Foot to the Left, that the hollow of the right Foot come againſt the Heel of the Left, take hold at the ſame time of the Butt-end of the Pike with the Right Hand; Charge your Pike Breaſthigh.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>26.</hi> Puſh your Pikes.</cell>
+                           <cell>26. The Pike being thus held, you thruſt it out ſtrongly forward with both Hands, not
+<pb n="123" facs="tcp:60340:63"/>ſtirring the Feet, in ſuch manner that the Right Hand come to the Left Shoulder, or as far as the Right Hand can reach, pul<g ref="char:EOLhyphen"/>ling it back again, and Charging Breaſt high, as before.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>27.</hi> Trail your Pikes the Spears before.</cell>
+                           <cell>27. Stand ſtill with both Feet, take hold of the Pike with the Left Hand forwards as far as the Arm can reach, let go the Right Hand, bring back the Pike with the Left, take hold again with the Right as far as the
+<pb n="124" facs="tcp:60340:64"/>Arm can reach, bring the Pike with the Right Hand, take hold of it again with the Left as far as it can reach, bring the ſame back; And laſtly, take hold of the Pike with the Right Hand, (with the ſtepping forward of the Right Foot) a<g ref="char:EOLhyphen"/>bout a Hands breadth from the Spear, in ſuch maner, that the thumb and the flat of the Spear lie upwards, hold the Pike thus with the Right Hand at the Right Side, the Elbow turned out<g ref="char:EOLhyphen"/>ward almoſt in an
+<pb n="125" facs="tcp:60340:64"/>equal Line with the Body, the Left Hand hanging down by the ſide of the Body, the Feet and Heels in an equal Line ſtanding with the Toes turned outwards.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>28.</hi> Preſent your Spears.</cell>
+                           <cell>28. Take hold of the Pike with the Left Hand juſt above the Right, the Thumb up<g ref="char:EOLhyphen"/>wards, let go the Right Hand, and take hold of the Pike again about a Foot backwards, lay<g ref="char:EOLhyphen"/>ing the Pike with the Right Hand to the ſide of the Body, and hold
+<pb n="126" facs="tcp:60340:65"/>it thus with both Hands, the Elbows turned outwards, the Spear flat, the Left Knee a little bent, one Foot behind the other, that the hollow of the Right come in an e<g ref="char:EOLhyphen"/>qual Line with the Heel of the Left Foot.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>29.</hi> To the Front, Charge.</cell>
+                           <cell>
+                              <p n="29">29. Stand ſtill with both Feet, let go the Left Hand, bring the Pike forwards as far as the Arm can reach, take hold of it with the Left, let looſe the Right, bring the Pike forward with the Left,
+<pb n="127" facs="tcp:60340:65"/>take the Pike again backward with the Right Hand, let looſe the Left, and bring the Pike again with the Right Hand forward, take it once more with the Left, let looſe the Right, and take hold of the Butt-end, &amp; Charge again Breaſt high, as before is ſhewn.</p>
+                              <p>
+                                 <hi>Note,</hi> The thruſting the Pike forward, and the taking hold of it backward, muſt be e<g ref="char:EOLhyphen"/>very time done as far as your Arms will per<g ref="char:EOLhyphen"/>mit.</p>
+                           </cell>
+                        </row>
+                        <pb n="128" facs="tcp:60340:66"/>
+                        <row>
+                           <cell>
+                              <hi>30.</hi> Advance your Pikes.</cell>
+                           <cell>30. Raiſe the Pike nim<g ref="char:EOLhyphen"/>bly ſtraight before you, with the bringing up of the Right Foot, tell 1, 2, bring it to the Right Shoulder, with the turning or remo<g ref="char:EOLhyphen"/>ving the Feet &amp; Hands, obſerving further the Poſture as in Explan. 2. is ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>31.</hi> Order your Pikes.</cell>
+                           <cell>31. Take hold of the Pike at the Shoulder with the Left Hand, bring the ſame nim<g ref="char:EOLhyphen"/>bly with out-ſtretched Arms before your Bo<g ref="char:EOLhyphen"/>dy, tell 1, 2, let looſe the Right Hand, let the
+<pb n="129" facs="tcp:60340:66"/>Pike with the Left Hand ſink down as far as the Arm (unforced) will ſuffer, tell 1, 2, bring it to your Side by the Right Foot, let looſe the Left Hand, hanging it down by the Body, in ſuch a manner, that the let<g ref="char:EOLhyphen"/>ting looſe of the Left Hand, and the ſetting down of the Pike, is done at one time; hold the Pike thus to the Ground by the outſide of the Right Foot, the Thumb over againſt the Right Eye, the Arm from the Hand to the Elbow, hang<g ref="char:EOLhyphen"/>ing
+<pb n="130" facs="tcp:60340:67"/>down by the Pike, ſo that the ſame come to ſtand up ſtraight, the Feet with the Heels in a ſtraight Line, the Toes turned outwards, hold up the Head, and the Body ſtraight, ſo as in the Poſture of the Advanced Pike has of<g ref="char:EOLhyphen"/>ten been ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>32.</hi> Lay down your Pikes.</cell>
+                           <cell>32. This is done in the ſame manner as is ſhewn in the laying down of the Musket, Explan. 39. <hi>viz.</hi> That you take up your Right Foot, and ſet the hol<g ref="char:EOLhyphen"/>low of the Foot againſt
+<pb n="131" facs="tcp:60340:67"/>the Butt-end of the Pike; ſtep a large Step forward with the Left Foot leaning towards it, lay down your Pike with as ſtraight a Body as poſſible, &amp; remain in that Poſture looking to your Right-hand Man, but without turning your Head, holding it up as much as poſ<g ref="char:EOLhyphen"/>ſible, tell 1, 2, 3, then raiſe your ſelf up with the ſtepping back of your Left Foot, turn your Right Foot in<g ref="char:EOLhyphen"/>ward upon your Heel over the Pike, ſetting it along by the Butt<g ref="char:EOLhyphen"/>end, both your Arms
+<pb n="132" facs="tcp:60340:68"/>hanging down your Body, and ſtand with your Body in the ſame Poſture you did before the laying down of the Pike.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>33.</hi> Take up your Pikes.</cell>
+                           <cell>33. This is alſo done as with the taking up of the Musket, Explan. 40. turn your Right Foot outwards upon the Heel over the Pike, and ſet the hollow of your Foot againſt the Butt<g ref="char:EOLhyphen"/>end of the Pike; At the ſame time turn your Right Hand with a ſmall Motion out<g ref="char:EOLhyphen"/>ward to anſwer the
+<pb n="133" facs="tcp:60340:68"/>Motion of your Foot, as hath been ſhewn in the taking up the Muſ<g ref="char:EOLhyphen"/>ket; Step forward a large Step with the Left Foot along the Pike, &amp; come forward with a ſtiff Body, as hath been ſaid; take the Pike with your Right Hand at the ſame place where you held it at laying down, tell 1, 2, 3, raiſe your ſelf up with the Pike, with the ſtepping back of the Left Foot; take up your Right Foot, and ſet it inwards by the Butt-end; obſerve the Poſture as is ſhewn
+<pb n="134" facs="tcp:60340:69"/>before the laying it down.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>34.</hi> Plant your Pikes.</cell>
+                           <cell>34. Take hold of the Pike with the Left Hand againſt the Bo<g ref="char:EOLhyphen"/>dy, as much down<g ref="char:EOLhyphen"/>wards as the Arm un<g ref="char:EOLhyphen"/>forced will permit; put back the Right Foot a little; thruſt then the Pike with both Hands faſt into the ground; ſet your Right Foot forwards again; let both Hands hang down by the Body.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>35.</hi> Order your Pikes.</cell>
+                           <cell>35. Take the Pike with both hands in the ſame
+<pb n="135" facs="tcp:60340:69"/>place where it was let looſe; draw it out of the Earth, with the ſetting back of the Right Foot; and then in the bringing up of the Right Foot, let go the Left Hand, put the Pike down by the Right Foot, and fur<g ref="char:EOLhyphen"/>ther obſerve the Po<g ref="char:EOLhyphen"/>ſture as in Explan. 13. is ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>36.</hi> Advance your Pikes.</cell>
+                           <cell>36. Bring up the Pike with the Right Hand juſt be<g ref="char:EOLhyphen"/>fore the Body as far as the Arm can reach; take hold of the Pike with a full Left Hand,
+<pb n="136" facs="tcp:60340:70"/>as much as the Arm unforced will permit, juſt before the middle of the Body, bring the Pike with vour Left Hand (letting looſe the Right) as high as your Shoulder; then take hold of the Pike with the Right Hand at the Butt-end, tell 1, 2, bring the Pike to the Right Shoulder, tell again 1, 2, let looſe the Left Hand, which muſt hang down by the Body, as often in the Advanced Pike hath been ſhewn.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="137" facs="tcp:60340:70"/>
+               <head>General Words of Command for the Evolutions.</head>
+               <div type="table">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">Words of Com<g ref="char:EOLhyphen"/>mand.</cell>
+                           <cell role="label">Explanation.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Take heed to Exerciſe your Evolutions.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>1.</hi> Take heed.</cell>
+                           <cell>1. AS ſoon as this Word of Com<g ref="char:EOLhyphen"/>mand is given, there muſt be great Silence obſerved throughout the whole Battalion, the Soldiers doing no Motions either with their Head, Body,
+<pb n="138" facs="tcp:60340:71"/>Hands or Feet, but ſuch as ſhall be ordered, looking ſtedfaſtly to the Commanding Of<g ref="char:EOLhyphen"/>ficer, who is to Exer<g ref="char:EOLhyphen"/>ciſe and give the Words of Command, as was formerly ſaid in the Exerciſe.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> Carry well your Arms.</cell>
+                           <cell>
+                              <hi>2.</hi> The Musketeers and Pikemen muſt carry their Arms as in the Exerciſe has been ſhewn; namely, the Musketeer muſt carry his Musket even upon his Shoulder, the Muz<g ref="char:EOLhyphen"/>zel even and high; the Pikeman holding his
+<pb n="139" facs="tcp:60340:71"/>Pike firm and ſtraight up, as in the Exerciſe is ſhewn; the whole Ranks and Files carry their Arms in a ſtraight Line and high, that when one ſtands be<g ref="char:EOLhyphen"/>hind or before the File, or at the Wing, or End of a Rank, the Pikes and the Musketeers ſhew as if there was but one Pike or Muſ<g ref="char:EOLhyphen"/>ket.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> Straighten the Ranks and Files.</cell>
+                           <cell>
+                              <p n="3">3. Thoſe that ſtand next to one another in the Ranks, look to the Right and to the Left Hand, and muſt keep
+<pb n="140" facs="tcp:60340:72"/>themſelves in ſuch a Poſture, that neither Head or Body is to be ſeen before or after one another, but that the Head, Shoulder and Heels, be in a ſtraight Line; alſo thoſe in the Files muſt always ſtand with their Face againſt the middle of the Neck of their Lea<g ref="char:EOLhyphen"/>der; Further it is to be obſerved at the Pa<g ref="char:EOLhyphen"/>rade, or when you will Exerciſe, the Ranks muſt always be Four ordinary Paces aſun<g ref="char:EOLhyphen"/>der, and the Files one Step, or the length of an out-ſtretched Arm;
+<pb n="141" facs="tcp:60340:72"/>In the Marching up, the Ranks muſt open to the diſtance which ſhall be Commanded, either a whole Step, or a half; namely thus, the Right Files ſtands, and thoſe Files of the Left Hand muſt ſtand each from his Right<g ref="char:EOLhyphen"/>hand Man an whole Step, or as far as he can reach with an out<g ref="char:EOLhyphen"/>ſtretched Arm (or an half Pace, which is the half of an out-ſtretch<g ref="char:EOLhyphen"/>ed Arm, that is when the Hand is ſet bent againſt the Side; which diſtance is al<g ref="char:EOLhyphen"/>ways to be obſerved
+<pb n="142" facs="tcp:60340:73"/>when you Give Fire;) The Files in their Marching off muſt Cloſe ſo near, that their Shoulders almoſt touch, and the Ranks keep to their former diſtance.</p>
+                              <p>They muſt begin their March always with the Left Foot, and in their Facings muſt always turn up<g ref="char:EOLhyphen"/>on the Left Foot, ex<g ref="char:EOLhyphen"/>cept in ſome Com<g ref="char:EOLhyphen"/>mands in the follow<g ref="char:EOLhyphen"/>ing Evolutions.</p>
+                              <p>They muſt March very ſoftly, and with<g ref="char:EOLhyphen"/>out turning their Heads look towards their
+<pb n="143" facs="tcp:60340:73"/>Right and Left Hand, but moſt to the Right, that the whole. Rank may March ſtraight, their Hats cockt, the Head upright, and car<g ref="char:EOLhyphen"/>ry well their Arms.</p>
+                              <p>When Arms is men<g ref="char:EOLhyphen"/>tioned, it ſignifies both Musketeers and Pike<g ref="char:EOLhyphen"/>men; you are not to Charge with the Pikes when the Muskets are Preſented.</p>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="144" facs="tcp:60340:74"/>
+               <head>
+                  <hi>Evolution</hi> with Musketeers and Pikemen together.</head>
+               <div type="table">
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label">Words of Com<g ref="char:EOLhyphen"/>mand.</cell>
+                           <cell role="label">Explanation.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Take heed the whole Batta<g ref="char:EOLhyphen"/>lion to Preſent your Arms.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>1.</hi> Preſent your Arms.</cell>
+                           <cell>1. THE Musketeers muſt Reſt their Muskets, and the Pike<g ref="char:EOLhyphen"/>men Charge their Pikes to the Front, the Spears in a Line Breaſt high; and ob<g ref="char:EOLhyphen"/>ſerve, when they have brought up their Arms before their Body, to
+<pb n="145" facs="tcp:60340:74"/>ſtand in that Poſture whilſt they ſlowly tell 1, 2, (and after they have looked upon their Right and Left-hand Man and their Lead<g ref="char:EOLhyphen"/>ers; that the Ranks and Files be ſtraight) they Reſt their Muskets, and Charge their Pikes altogether, and ſtand in that Poſture as in the Exerciſe of the Pike and Musket has been ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>2.</hi> To the Right. To the Right. To the Right. To the Right.</cell>
+                           <cell>2. In theſe Four Fa<g ref="char:EOLhyphen"/>cings, both Muske<g ref="char:EOLhyphen"/>teers and Pikemen muſt raiſe their Arms up before their Bodies,
+<pb n="146" facs="tcp:60340:75"/>at the ſame time bring<g ref="char:EOLhyphen"/>ing up the Right Foot, tell 1, 2, Face Four times upon the Left Foot to the Right, turn<g ref="char:EOLhyphen"/>ing at each time the Fourth part of a Cir<g ref="char:EOLhyphen"/>cle, in ſuch a manner, that the Heel of the Right Foot comes al<g ref="char:EOLhyphen"/>ways to ſtand in the hollow of the Left, and every one to take heed to obſerve his Right and Left-hand Man, and his Leader, that the Ranks and Files always remain ſtraight, tell 1, 2, nim<g ref="char:EOLhyphen"/>bly Reſt your Musket, and Charge your Pike
+<pb n="147" facs="tcp:60340:75"/>with the ſtepping back of the Right Foot, ſo as before is ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>3.</hi> To the Right about.</cell>
+                           <cell>3. Raiſe your Arms at the ſame time, bring<g ref="char:EOLhyphen"/>ing nimbly up the Right Foot, tell 1, 2, Face to the Right a<g ref="char:EOLhyphen"/>bout upon the Left Foot, holding out your Arms as far as may be without conſtraint be<g ref="char:EOLhyphen"/>fore the Body, tell 1, 2, Charge, and nimbly Reſt your Arms, with the ſtepping back of the Right Foot.</cell>
+                        </row>
+                        <pb n="148" facs="tcp:60340:76"/>
+                        <row>
+                           <cell>
+                              <hi>4.</hi> To the Left as you were.</cell>
+                           <cell>4. Raiſe your Arms at the ſame time with the bringing nimbly up the Right Foot, tell 1, 2, Face nimbly to the Left about upon the Left Foot, telling again 1, 2, Charge and Reſt your Arms as be<g ref="char:EOLhyphen"/>fore.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>5.</hi> To the Left. To the Left. To the Left. To the Left.</cell>
+                           <cell>5. This is done like the Facings to the Right, only with this diffe<g ref="char:EOLhyphen"/>rence, that you turn upon the Left Foot to the Left, every time the Fourth part of a Circle.</cell>
+                        </row>
+                        <pb n="149" facs="tcp:60340:76"/>
+                        <row>
+                           <cell>
+                              <hi>6.</hi> To the Left about.</cell>
+                           <cell>6. This is done as in the Facings and Char<g ref="char:EOLhyphen"/>gings and Reſtings to the Right about, has been ſhewn, only with this difference, that you Face upon the Left Foot to the Left about.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>7.</hi> To the Right as you were.</cell>
+                           <cell>7. This is done as in Explan. 1. is ſhewn, tho' with this differ<g ref="char:EOLhyphen"/>ence, that you Face up<g ref="char:EOLhyphen"/>on the Left Foot to the Right about.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>8.</hi> Poiſe your Muskets, and Advance your Pikes.</cell>
+                           <cell>8. Raiſe your Arms nimbly up with the bringing up of the
+<pb n="150" facs="tcp:60340:77"/>Right Foot, and ſtand thus with out-ſtretched Arms till the follow<g ref="char:EOLhyphen"/>ing Command, <hi>viz.</hi> as the Musket is in Explan. 44. and the Pike as in Explan. 2.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>9.</hi> Shoulder your Muskets.</cell>
+                           <cell>9. Bring the Musket upon the Shoulder, and the Pike to the Shoul<g ref="char:EOLhyphen"/>der, and keep in this Poſture as in the Exer<g ref="char:EOLhyphen"/>ciſe of the Pike and Musket Explan 1. is ſhewn.</cell>
+                        </row>
+                        <pb n="151" facs="tcp:60340:77"/>
+                        <row>
+                           <cell role="label">Ranks take hred to double your Front.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>10.</hi> Ranks to the Right, double your Front.</cell>
+                           <cell>10. The Second, Fourth, and Sixth Rank ſtands ready to double the o<g ref="char:EOLhyphen"/>ther.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>11.</hi> March.</cell>
+                           <cell>
+                              <p n="11">11. The Second March<g ref="char:EOLhyphen"/>es, and doubles in the Firſt, and the Fourth in the Third, and the Sixth in the Fifth Rank.</p>
+                              <p>
+                                 <hi>Note,</hi> That in this and all other March<g ref="char:EOLhyphen"/>ings and Doublings, it is to be obſerved, that
+<pb n="152" facs="tcp:60340:78"/>the whole Rank is to ſtep forward with the Left Foot, Marching ſlowly, always looking towards the Right and Left Hand, but princi<g ref="char:EOLhyphen"/>pally to the Right, that the whole Rank may March equal, carrying their Arms with a ſtraight Body, hold<g ref="char:EOLhyphen"/>ing up their Heads, and every one March<g ref="char:EOLhyphen"/>ing in Four Paces to the Right Hand of their Leader that ſtood in the Rank before him.</p>
+                           </cell>
+                        </row>
+                        <pb n="153" facs="tcp:60340:78"/>
+                        <row>
+                           <cell>
+                              <hi>12.</hi> To the Left as you were.</cell>
+                           <cell>12. Thoſe Ranks which Doubled, Face at once upon the Right Foot to the Left, and tread at the ſame time with the Left Foot half a Step backwards; in which Facing they car<g ref="char:EOLhyphen"/>ry their Arms up high and ſtraight, that the one do not touch the other, nor make any clattering, and ſtand thus ready to March.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>13.</hi> March.</cell>
+                           <cell>13. The forementioned ranks which have made half a Step backwards tread forwards with the
+<pb n="154" facs="tcp:60340:79"/>Left Foot, and March in Four Paces to their for<g ref="char:EOLhyphen"/>mer Places, the Right Foot making the Fourth Pace, and muſt be ſet in his former Place, the Left Foot after it; and ſtand thus till the following Com<g ref="char:EOLhyphen"/>mand.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>14.</hi> Halt.</cell>
+                           <cell>14. As ſoon as this Word of Command is gi<g ref="char:EOLhyphen"/>ven, the Ranks which Marched, Face at once upon the Right Foot to the Right about, every one taking heed that he ſtand ſtraight in Rank and File as before.</cell>
+                        </row>
+                        <pb n="155" facs="tcp:60340:79"/>
+                        <row>
+                           <cell>
+                              <hi>15.</hi> Ranks to the Left double your Front.</cell>
+                           <cell>15. Thoſe Ranks which before Doubled to the Right, ſtand ready to March, and Double to the Left.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>16.</hi> March.</cell>
+                           <cell>16. The foreſaid Ranks ſtep forward with the Left Foot, and March in Four Paces in the Ranks where they are to Double, placing themſelves on the Left Side of the Man which ſtood before them; and obſerve further as in the former Marches was ſhewn.</cell>
+                        </row>
+                        <pb n="156" facs="tcp:60340:80"/>
+                        <row>
+                           <cell>
+                              <hi>17.</hi> To the Right as you were.</cell>
+                           <cell>17. The Ranks which Doubled, Face at once upon the Left Foot to the Right, ſetting the Right Foot half a Pace out backwards, carry<g ref="char:EOLhyphen"/>ing their Arms high and ſtraight, as before has been ſhewn.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>18.</hi> March.</cell>
+                           <cell>18. The forementioned Ranks ſtep half a Pace forwards with the ſame Right Foot, and March in Four Paces to their former Places; ſo that the Left Foot makes the Fourth Pace, and ſtands in his for<g ref="char:EOLhyphen"/>mer
+<pb n="157" facs="tcp:60340:80"/>Place, and muſt remain thus till the fol<g ref="char:EOLhyphen"/>lowing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>19.</hi> Halt.</cell>
+                           <cell>19. The former Ranks Face upon the Left Foot to the Left about, and take heed to even their Ranks and Files.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Ranks take heed to double your Reer.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>20.</hi> Ranks to the Right double your Reet.</cell>
+                           <cell>20. The Ranks which before ſtood ſtill, <hi>Viz.</hi> the Firſt, the Third, and the Fifth, muſt now March and Double, and turn up<g ref="char:EOLhyphen"/>on the Right Foot to
+<pb n="158" facs="tcp:60340:81"/>the Right about, ſtand<g ref="char:EOLhyphen"/>ing thus ready to March.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>21.</hi> Match.</cell>
+                           <cell>21. The forementioned Ranks ſtep forward with the Right Foot, and March in Four Pa<g ref="char:EOLhyphen"/>ces into the Ranks which ſtood behind them, the Left Foot makes the Fourth or Laſt Pace, and come to ſtand cloſe to the Right Foot of the Man that ſtood behind him, and ſo to ſtand till the next Word of Com<g ref="char:EOLhyphen"/>mand.</cell>
+                        </row>
+                        <pb n="159" facs="tcp:60340:81"/>
+                        <row>
+                           <cell>
+                              <hi>22.</hi> Halt.</cell>
+                           <cell>22. The forementioned Ranks Face on the Left Foot to the Right about, and every one doth ſtraighten himſelf with his Right and Left-hand Man, car<g ref="char:EOLhyphen"/>rying the Muzzel of the Musket high, the Pikes ſtraight, as hath been ſaid before.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>23.</hi> As you were.</cell>
+                           <cell>23. Thoſe Ranks which Doubled, ſtand ready to March to their for<g ref="char:EOLhyphen"/>mer Places.</cell>
+                        </row>
+                        <pb n="160" facs="tcp:60340:82"/>
+                        <row>
+                           <cell>
+                              <hi>24.</hi> Match.</cell>
+                           <cell>24. The forementioned Ranks ſtep at once with the Left Foot forward, and March ſlowly in Four Pa<g ref="char:EOLhyphen"/>ces to their former Places, and obſerving alſo their Marching and Standing, as is ſhewn in Explan. 11.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>25.</hi> Ranks to the Left double your Beer.</cell>
+                           <cell>25. The foreſaid Ranks turn upon the Left Foot to the Left about, and ſtand ſo ready to March.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>26.</hi> Match.</cell>
+                           <cell>26. The fore-named Ranks ſtep upon the
+<pb n="161" facs="tcp:60340:82"/>Left Foot at once for<g ref="char:EOLhyphen"/>ward, and March in Four Paces into the Ranks that ſtood be<g ref="char:EOLhyphen"/>hind them, in ſuch a manner, that their Right Foot comes to ſtand in the Fourth Pace by the Left Foot of the Man that ſtood behind them; and ſtand thus till the fol<g ref="char:EOLhyphen"/>lowing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>27.</hi> Halt.</cell>
+                           <cell>27. This is done as in Explan. 22. except that you turn on the Right Foot to the Left a<g ref="char:EOLhyphen"/>bout, ſtraightning your Ranks and Files, car<g ref="char:EOLhyphen"/>rying
+<pb n="162" facs="tcp:60340:83"/>your Arms as before.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>28.</hi> As your were.</cell>
+                           <cell>28. The foreſaid Ranks ſtand ready to March.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>29.</hi> Match.</cell>
+                           <cell>29. The forementioned Ranks ſtep at once with the Left Foot forward, and March in Four Steps to their former Places, obſerving all what in Explan. 11. has been ſaid, and the Note thereon.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Reer Half<g ref="char:punc">▪</g> Files take heed to double your Front.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>30.</hi> Reer half Files to the Right double your Front.</cell>
+                           <cell>30. The Three laſt Ranks make ready to March and Double.</cell>
+                        </row>
+                        <pb n="163" facs="tcp:60340:83"/>
+                        <row>
+                           <cell>
+                              <hi>31.</hi> Match.</cell>
+                           <cell>31. The forementioned Ranks ſtep at once for<g ref="char:EOLhyphen"/>ward with the Left Foot, and March ſlow<g ref="char:EOLhyphen"/>ly and exactly, carry<g ref="char:EOLhyphen"/>ing their Arms well; The Fourth Ranks Marches into the Firſt, the Fifth in the Second, the Sixth in the Third Rank, and place them<g ref="char:EOLhyphen"/>ſelves on the Right Side of the Man that ſtood before them; ob<g ref="char:EOLhyphen"/>ſerving further as in Explan. 11.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>32.</hi> To the Left as you were.</cell>
+                           <cell>32. This is done in the ſame manner as in Ex<g ref="char:EOLhyphen"/>plan. 12.</cell>
+                        </row>
+                        <pb n="164" facs="tcp:60340:84"/>
+                        <row>
+                           <cell>
+                              <hi>33.</hi> Match.</cell>
+                           <cell>33. The foreſaid Ranks ſtep at once forward upon the Left Foot, and March thus ſlow<g ref="char:EOLhyphen"/>ly to their former Pla<g ref="char:EOLhyphen"/>ces; ſo that the Right Foot makes the Laſt or Twelfth Step, and is ſet before the other.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>34.</hi> Halt.</cell>
+                           <cell>34. The foreſaid Ranks Face at once upon the Right Foot to the Right about, obſer<g ref="char:EOLhyphen"/>ving further what in the former Commands has been ſaid.</cell>
+                        </row>
+                        <pb n="165" facs="tcp:60340:84"/>
+                        <row>
+                           <cell>
+                              <hi>35.</hi> Reer half Files to the Left dou<g ref="char:EOLhyphen"/>ble your Front.</cell>
+                           <cell>35. The foreſaid Reer Half-Files ſtand ready to March forwards, and to Double.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>36.</hi> Match.</cell>
+                           <cell>36. The foreſaid Ranks ſtep at once with the Left Foot, and March ſtraight and ſlowly for<g ref="char:EOLhyphen"/>ward; obſerve further as in Explan. 31.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>37.</hi> To the Right as you were.</cell>
+                           <cell>37. Do as in Explan. 17.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>38.</hi> Match.</cell>
+                           <cell>38. The forementioned Ranks ſtep at once with the Right Foot
+<pb n="166" facs="tcp:60340:85"/>forward, Marching ſlowly to their former Place, ſo that the Left Foot comes in the Laſt or Twelfth Pace, and ſtands forward, obſer<g ref="char:EOLhyphen"/>ving what has been further ſaid of ſtraight<g ref="char:EOLhyphen"/>ning their Ranks and Files, and carrying their Arms well.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>39.</hi> Halt.</cell>
+                           <cell>39. The forementioned Ranks Face at once up<g ref="char:EOLhyphen"/>on the Left Foot to the Left about; and ob<g ref="char:EOLhyphen"/>ſerve further what in the former Commands has been ſaid.</cell>
+                        </row>
+                        <pb n="167" facs="tcp:60340:85"/>
+                        <row>
+                           <cell role="label">Front half Files take heed to double your Reer.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>40.</hi> Front half Files to the Right double your Reer.</cell>
+                           <cell>40. The Three fore<g ref="char:EOLhyphen"/>moſt Ranks Face up<g ref="char:EOLhyphen"/>on the Right Foot to the Right about, and ſtand thus ready to March, and Double.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>41.</hi> Match.</cell>
+                           <cell>41. The aforeſaid Ranks ſtep at once with the Right Foot forward, and March ſlowly, <hi>viz.</hi> the Third Rank in the Sixth, the Se<g ref="char:EOLhyphen"/>cond in the Fifth, and the Firſt in the Fourth;
+<pb n="168" facs="tcp:60340:86"/>ſo the Left Foot makes the Laſt and Twelfth Step, and muſt ſtand by the Right Foot of the Man in his File he is to Double, and ſo remain, expecting the next Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>42.</hi> Halt.</cell>
+                           <cell>42 The foreſaid Ranks Face at once upon the Right about, ſtraight<g ref="char:EOLhyphen"/>ning their Ranks and Files, as formerly has been ſaid.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>43.</hi> Front half Files as you were.</cell>
+                           <cell>43. The foreſaid Three Ranks ſtand ready to March as they were.</cell>
+                        </row>
+                        <pb n="169" facs="tcp:60340:86"/>
+                        <row>
+                           <cell>
+                              <hi>44.</hi> Match.</cell>
+                           <cell>44. The forementioned Three Ranks ſtep at once with the Left Foot, and March ſlow<g ref="char:EOLhyphen"/>ly forward, carrying their Arms high, ſtrait<g ref="char:EOLhyphen"/>ning their Ranks, and evening their Files, when they come to their former Places.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>45.</hi> Front half Files to the Left double your Reer.</cell>
+                           <cell>45. The foreſaid Three Ranks turn upon their Left Foot to the Left about, and ſtand thus ready to March, and Double.</cell>
+                        </row>
+                        <pb n="170" facs="tcp:60340:87"/>
+                        <row>
+                           <cell>
+                              <hi>46.</hi> Match.</cell>
+                           <cell>46. The foreſaid Ranks ſtep again at once time forward with the Left Foot, and March ſlow<g ref="char:EOLhyphen"/>ly into the Ranks that ſtood behind them, it ſuch a manner, that the Right Foot is the <gap reason="illegible" resp="#MURP" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap>ſt and Twelfth Step, and ſtands next the Left Foot of the Man they are to Double, and ſtand thus till the fol<g ref="char:EOLhyphen"/>lowing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>47.</hi> Halt.</cell>
+                           <cell>47. The foreſaid Three Ranks turn upon the Right Foot to the Left about, and ſtraight<g ref="char:EOLhyphen"/>en
+<pb n="171" facs="tcp:60340:87"/>their Ranks and Files.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>48.</hi> Front half Files as you were.</cell>
+                           <cell>48. The forementioned Three Ranks ſtand a<g ref="char:EOLhyphen"/>gain ready to March as they were.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>49.</hi> Match.</cell>
+                           <cell>49. The foreſaid Three Ranks ſtep at once for<g ref="char:EOLhyphen"/>ward with the Left Foot, and March ſlowly to their former Places, carrying their Arms well and high, and ſtand ſtraight in their Ranks and Files, as formerly has been ſaid.</cell>
+                        </row>
+                        <pb n="172" facs="tcp:60340:88"/>
+                        <row>
+                           <cell role="label">Files take heed to double.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>50.</hi> Files to the Right double.</cell>
+                           <cell>
+                              <p n="50">50. The Files which are to Double, turn at once upon the Left Foot to the Right; name<g ref="char:EOLhyphen"/>ly, the Second, the Fourth, the Sixth, and the Eighth, reckoning from the Right Hand, and ſo through the whole Battalion; but the uneven Files muſt ſtand, <hi>viz.</hi> the Firſt, the Third, the Fifth, the Seventh, <hi>&amp;c.</hi> thro' the whole Battalion.</p>
+                              <pb n="173" facs="tcp:60340:88"/>
+                              <p>
+                                 <hi>Note,</hi> That in this Doubling of Files, the Pikes are never mixt amongſt the Muske<g ref="char:EOLhyphen"/>teers, nor the Muske<g ref="char:EOLhyphen"/>teers amongſt the Pikes, but that every Diviſion Doubles it ſelf apart, and ſo they muſt have even Files; and in caſe there be u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>even Files, they are to ſtand ſtill.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>51.</hi> Match.</cell>
+                           <cell>51. The forementioned Files thus Faced, rea<g ref="char:EOLhyphen"/>dy to March and Dou<g ref="char:EOLhyphen"/>ble, muſt at once ſtep forward with the Left Foot, and March ſlow<g ref="char:EOLhyphen"/>ly,
+<pb n="174" facs="tcp:60340:89"/>every one placing himſelf behind his Right-hand Man, ſo that the Left Foot in the Third and Laſt Pace comes to ſtand foremoſt; with the Heel behind the Left Heel of his Right<g ref="char:EOLhyphen"/>hand Man he is to Double, expecting the next Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>52.</hi> Halt.</cell>
+                           <cell>52. The foreſaid March<g ref="char:EOLhyphen"/>ed Files turn at once upon the Left Foot to the Left, and ſtraight<g ref="char:EOLhyphen"/>en their Ranks and Files, carrying their Arms well, as often hath been ſaid.</cell>
+                        </row>
+                        <pb n="175" facs="tcp:60340:89"/>
+                        <row>
+                           <cell>
+                              <hi>53.</hi> To the Left as you were.</cell>
+                           <cell>53. The foreſaid Files which Doubled, Face at once upon the Left Foot to the Left, and ſtand thus ready to March as they were.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>54.</hi> Match.</cell>
+                           <cell>54. The forementioned Files ſtep at once with the Left Foot forward, and March in Three Paces to their former Places, and ſtand in their Ranks and Files as before.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>55.</hi> Files to the Left double.</cell>
+                           <cell>55. The Files which be<g ref="char:EOLhyphen"/>fore ſtood ſtill, muſt
+<pb n="176" facs="tcp:60340:90"/>now upon the Right Foot Face to the Left, and ſtand ready to March and Double.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>56.</hi> Match.</cell>
+                           <cell>56. The forenamed Files ſtanding thus Faced, ready to March and Double; namely, the Firſt, the Third, the Fifth and the Seventh, <hi>&amp;c.</hi> ſtep at once with the Right Foot for<g ref="char:EOLhyphen"/>wards, and March in Three Paces ſlowly be<g ref="char:EOLhyphen"/>hind the Man that ſtood on their Left Hand, ſo that the Right Foot in the Third and Laſt Pace ſtands fore<g ref="char:EOLhyphen"/>moſt;
+<pb n="177" facs="tcp:60340:90"/>with the Heel behind the Right Heel of the Left-hand Man he is to Double, ex<g ref="char:EOLhyphen"/>pecting the following Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>57.</hi> Halt.</cell>
+                           <cell>57. The forementioned Files Face at once up<g ref="char:EOLhyphen"/>on the Right Foot to the Right, ſtanding even in their Ranks and Files, and do as before hath been ſaid.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>58.</hi> To the Right as you were.</cell>
+                           <cell>58. The foreſaid Files which have Doubled, Face again at once up<g ref="char:EOLhyphen"/>on the Right Foot to
+<pb n="178" facs="tcp:60340:91"/>the Right, and thus ſtand ready to March as they were.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>59.</hi> March.</cell>
+                           <cell>59. The forenamed Files ſtep forward at once with the Right Foot, and March in Three Paces to their former Places, and ſtraighten their Ranks and Files as formerly they ſtood.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Half Ranks take heed to double your Files.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>60.</hi> Half Ranks to the Right dou<g ref="char:EOLhyphen"/>ble your Files.</cell>
+                           <cell>
+                              <p n="60">60. The Half-Ranks of every Diviſion Face upon the Left Foot to
+<pb n="179" facs="tcp:60340:91"/>the Right, and ſo ſtand ready to March and Double.</p>
+                              <p>
+                                 <hi>Note,</hi> That this Dou<g ref="char:EOLhyphen"/>bling is either by the Half-Ranks of every Diviſion apart, or by the Half of the Battali<g ref="char:EOLhyphen"/>on.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>61.</hi> March.</cell>
+                           <cell>61. The forementioned Files that are Faced to Double, ſtep at once with the Left Foot for<g ref="char:EOLhyphen"/>ward, and March ſtraight forward to the Place where the Firſt Man of the Right Hand ſtood; where every one to the laſt
+<pb n="180" facs="tcp:60340:92"/>Man muſt turn (ob<g ref="char:EOLhyphen"/>ſerving in this March, that the Left Foot muſt never come at the out<g ref="char:EOLhyphen"/>ſide of the Line of the Front) and March thus in the midſt of the Ranks and Files where<g ref="char:EOLhyphen"/>in they are to Double; ſo that the Left Foot muſt make the laſt Step, as in Explan. 51.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>62.</hi> Halt.</cell>
+                           <cell>62. The foreſaid Half-Ranks Face at once up<g ref="char:EOLhyphen"/>on the Left Foot to the Left, and ſtraighten their Ranks and Files.</cell>
+                        </row>
+                        <pb n="181" facs="tcp:60340:92"/>
+                        <row>
+                           <cell>
+                              <hi>63.</hi> To the Left as you were.</cell>
+                           <cell>63. The foreſaid Half-Ranks Face at once upon the Left Foot to the Left, and ſo ſtand ready to March in their former Places.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>64.</hi> March.</cell>
+                           <cell>64. The foreſaid Half-Ranks ſtep at once for<g ref="char:EOLhyphen"/>ward with their Left Foot, and March thus forward till they come to their former Places (obſerving again, that the Right Foot do not come without the ſtraight Line of the Front) expecting the following Command.</cell>
+                        </row>
+                        <pb n="182" facs="tcp:60340:93"/>
+                        <row>
+                           <cell>
+                              <hi>65.</hi> Halt.</cell>
+                           <cell>65. The foreſaid Half-Ranks Face all to<g ref="char:EOLhyphen"/>gether upon the Right Foot to the Right, ſtraitning their Ranks and Files, carrying their Arms well and high.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>66.</hi> Half Ranks to the Left double your Files.</cell>
+                           <cell>66. The Half-Ranks which ſtood ſtill be<g ref="char:EOLhyphen"/>fore, muſt March now, Facing at once upon the Right Foot to the Left; ſtand thus rea<g ref="char:EOLhyphen"/>dy to March and Dou<g ref="char:EOLhyphen"/>ble</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>67.</hi> March.</cell>
+                           <cell>67. The foreſaid Half-Ranks begin their
+<pb n="183" facs="tcp:60340:93"/>March with the Right Foot, and March ſtraight forwards, eve<g ref="char:EOLhyphen"/>ry one following his Leader to the Place where the firſt Left-hand Man ſtood and turned, where every one to the laſt Man muſt turn, and March thus forward (obſer<g ref="char:EOLhyphen"/>ving that the Right Foot never comes without the Front Line) into the midſt of the Ranks and Files in which they are to Double; The Right Foot makes the laſt Step, and ſtands for<g ref="char:EOLhyphen"/>wards, as in Explan.
+<pb n="184" facs="tcp:60340:94"/>56. and thus ſtand ex<g ref="char:EOLhyphen"/>pecting the next Com<g ref="char:EOLhyphen"/>mand.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>68.</hi> Halt.</cell>
+                           <cell>68. The foreſaid Half-Ranks Face at once upon the Right Foot to the Right, ſtraightning their Ranks and Files, carrying their Arms well, ſtraight and high.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>69.</hi> To the Right as you were.</cell>
+                           <cell>69. The foreſaid Ranks Face at once upon the right foot to the Right, ſtanding thus ready to March to their former Places.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>70.</hi> March.</cell>
+                           <cell>70. The forementioned
+<pb n="185" facs="tcp:60340:94"/>Half-Ranks ſtep for<g ref="char:EOLhyphen"/>ward all together with the Right Foot, and March back to their former Places (obſer<g ref="char:EOLhyphen"/>ving again in their March, that the Left Foot do's not come without the Line of the Front) expecting the following Com<g ref="char:EOLhyphen"/>mand.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>71.</hi> Halt.</cell>
+                           <cell>71. The foreſaid Ranks Face all together upon the Left Foot to the Left, ſtraightning their Ranks and Files, and carrying their Arms ſtraight and high.</cell>
+                        </row>
+                        <pb n="186" facs="tcp:60340:95"/>
+                        <row>
+                           <cell role="label">Files take heed to Counter-March.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>72.</hi> Files to the Right about Counter-March.</cell>
+                           <cell>72. The firſt Man of every File muſt Face upon the Right Foot to the Right about.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>73.</hi> March.</cell>
+                           <cell>73. The whole Battali<g ref="char:EOLhyphen"/>on ſteps at once with the Left Foot forward, and March every one ſlowly to the Right Side of the Man that ſtood behind him, till the firſt comes to the laſt, and the laſt to the firſt Mans Place, (ob<g ref="char:EOLhyphen"/>ſerve further, that in
+<pb n="187" facs="tcp:60340:95"/>their March every one turns at the ſame place to the Right about, where the firſt Man turned; alſo that they carry their Arms well, ſtraight and High, e<g ref="char:EOLhyphen"/>very one obſerving their diſtance in Ranks and Files, that they diſorder not one ano<g ref="char:EOLhyphen"/>ther) expecting the following Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>74.</hi> Files to the Left about Counter-March.</cell>
+                           <cell>74. The firſt Man of every File muſt turn upon the Left Foot to the Left about, and expect the following Command.</cell>
+                        </row>
+                        <pb n="188" facs="tcp:60340:96"/>
+                        <row>
+                           <cell>
+                              <hi>75.</hi> March.</cell>
+                           <cell>75. The whole Battali<g ref="char:EOLhyphen"/>on ſteps at once with the Left Foot forward, Marching ſlowly by the Left Side of the Man that ſtood behind him, till every one is come to his former Place, obſerving fur<g ref="char:EOLhyphen"/>ther all what has been ſhewn in Explan. 73.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Ranks take heed to Coun<g ref="char:EOLhyphen"/>ter-March.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>76.</hi> Ranks to the Right about Counter-March.</cell>
+                           <cell>76. The whole Battali<g ref="char:EOLhyphen"/>on turns at once upon the Right Foot to the Right, and ſtand thus ready to Counter<g ref="char:EOLhyphen"/>march.</cell>
+                        </row>
+                        <pb n="189" facs="tcp:60340:96"/>
+                        <row>
+                           <cell>
+                              <hi>77.</hi> March.</cell>
+                           <cell>
+                              <p n="77">77. The firſt Man of every Diviſion Faces upon the Right Foot to the Right about, and Marches ſtraight in the middle between the Ranks (all follow one another to the Place where the firſt Man Faced to the Right a<g ref="char:EOLhyphen"/>bout, and in the ſame Place do likewiſe Face, and ſo March forward till he ſtands upon the Left Hand that ſtood upon the Right, and he that ſtood upon the Left ſtands upon the Right; in which March care is to be taken, that as
+<pb n="190" facs="tcp:60340:97"/>ſoon as the firſt Man is paſt, the laſt to March in the ſame Line, Marching with his Right Foot where the laſt Man Marched with his Right Foot, Marching thus in the ſtraight Line of the Front, and becauſe the Soldiers come ſome<g ref="char:EOLhyphen"/>thing near each other in this March, good care muſt be taken to carry their Arms well, that they may not touch or clatter; and likewiſe the laſt Rank muſt Face altogether, and obſerve their Lea<g ref="char:EOLhyphen"/>der.</p>
+                              <pb n="191" facs="tcp:60340:97"/>
+                              <p>
+                                 <hi>Note,</hi> This Coun<g ref="char:EOLhyphen"/>termarch may be done by Diviſion, or by the whole Battalion.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>78.</hi> Halt.</cell>
+                           <cell>78. The whole Battali<g ref="char:EOLhyphen"/>on Faces at once upon the Right Foot to the Right, ſtraightning their Ranks and Files, carrying their Arms well.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>79.</hi> Ranks to the Left Counter-March.</cell>
+                           <cell>79. The whole Battali<g ref="char:EOLhyphen"/>on Faces upon the Left Foot to the Left; and ſtands thus ready to Countermarch.</cell>
+                        </row>
+                        <pb n="192" facs="tcp:60340:98"/>
+                        <row>
+                           <cell>
+                              <hi>80.</hi> March.</cell>
+                           <cell>80. The firſt Man of every Diviſion Faces upon the Left Foot to the Left about, and Marches ſtraight in the middle of the two Ranks, the which all follow till they come to their firſt Place; In which March is to be obſerved, that the firſt Man, as ſoon as he is paſt the laſt, tread in the ſame Line with his Left Foot where the other did go with his Left Foot, and thus to March in the ſtraight Line of the Front; and further to obſerve
+<pb n="193" facs="tcp:60340:98"/>in the Countermarch what is ſaid in Explan. 77.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>81.</hi> Halt.</cell>
+                           <cell>81. The whole Battali<g ref="char:EOLhyphen"/>on Paces at once upon the Left Foot to the Left, ſtraightning their Ranks and Files, car<g ref="char:EOLhyphen"/>rying their Arms well.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Take heedth cloſe your Files.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>82.</hi> To the Right and Left cloſe your Files to the Center.</cell>
+                           <cell>82. The whole Battalion Faces to the Right and Left inwards at the Center; namely, the Half-Ranks on the Right Face to the Left upon the Left Foot,
+<pb n="194" facs="tcp:60340:99"/>and the other half on the Left, Face on the Right Foot to the Right, that they ſtand with their Faces and Feet towards each o<g ref="char:EOLhyphen"/>ther, ſtanding thus ex<g ref="char:EOLhyphen"/>pecting the following Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>83.</hi> March.</cell>
+                           <cell>83. The Right Half-Ranks ſtep with the Left Foot, and the Left Half-Ranks with the Right Foot, at one time forwards, and thoſe that ſtand in the middle make but half a Pace, and March thus againſt one ano<g ref="char:EOLhyphen"/>ther
+<pb n="195" facs="tcp:60340:99"/>to the diſtance of half a Pace, carrying their Arms well and high, that they do not come to touch, and ſtand thus expecting the next Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>84.</hi> Halt.</cell>
+                           <cell>
+                              <p n="84">84. The Half-Ranks of the Right turn upon the Left Foot to the Right, and thoſe of the Left Hand turn upon the Right Foot to the Left.</p>
+                              <p>
+                                 <hi>Note,</hi> When you cloſe your Files to the Right or Left, the whole Bat<g ref="char:EOLhyphen"/>talion muſt Face upon
+<pb n="196" facs="tcp:60340:100"/>the Left Foot, and March with the Left Foot; and this is to be obſerved in their returning to their for<g ref="char:EOLhyphen"/>mer Places.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell role="label">Take heed to cloſe your Ranks.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>85.</hi> Ranks cloſe to the Front.</cell>
+                           <cell>85. The Five laſe Ranks ſtand ready to March, and cloſe forwards.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>86.</hi> March.</cell>
+                           <cell>86. The firſt Rank ſtands, the five other ſtep at once with the Left Foot forward, March<g ref="char:EOLhyphen"/>ing thus ſlowly, and Cloſe within a Pace of each other.</cell>
+                        </row>
+                        <pb n="197" facs="tcp:60340:100"/>
+                        <row>
+                           <cell role="label">Take heed to Wheel.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>87.</hi> To the Right Wheel.</cell>
+                           <cell>87. The cloſed Ranks and Files ſtand ready to March and Wheel.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>88.</hi> March.</cell>
+                           <cell>88. The whole Battali<g ref="char:EOLhyphen"/>on Marches with the Left Foot at once for<g ref="char:EOLhyphen"/>wards, and March and Wheel the Fourth part of a Circle, <hi>viz.</hi> the firſt Man of the firſt Rank of the Right Hand, turns with his Body and Feet ſlowly; but ſo, that the Right Foot doth not come out of his place, he only turning upon the
+<pb n="198" facs="tcp:60340:101"/>Heel, the other of the ſame Rank alſo Wheel with him, and accord<g ref="char:EOLhyphen"/>ing to proportion, as they are diſtant from the Right-hand Man, do March faſter or ſlower, looking care<g ref="char:EOLhyphen"/>fully to their Left Hand, without turning the Head, that the whole Rank may March even; The firſt Rank in their Wheel<g ref="char:EOLhyphen"/>ing muſt keep cloſe to the Right, and not March ſo quick as the other, they having a greater Circumference; The other Ranks muſt obſerve the ſame Or<g ref="char:EOLhyphen"/>der
+<pb n="199" facs="tcp:60340:101"/>in their March, tho' hot to Cloſe them<g ref="char:EOLhyphen"/>ſelves to the Right as the firſt Rank doth, but to the Left, and to obſerve their diſtance well in Ranks and Files, carrying their Arms well, every one obſerving his Leader, and the Right, and Left-hand Man Ranks as they are further from the Front, ſo in pro<g ref="char:EOLhyphen"/>portion they are to March faſter.</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>89. The whole Battali<g ref="char:EOLhyphen"/>on having Wheeled the Fourth part of a Cir<g ref="char:EOLhyphen"/>cle
+<pb n="200" facs="tcp:60340:102"/>ſtands, ſtraightning their Ranks and Files, carrying their Arms well, and expecting the following Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>90.</hi> To the Right, Wheel.</cell>
+                           <cell>90. The whole Battali<g ref="char:EOLhyphen"/>on ſtands again ready to March and Wheel.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>91.</hi> March.</cell>
+                           <cell>91. The Battalion ſteps again at once with the Left Foot forward, and Wheels the Fourth part of a Circle. Obſerve further Explan. 88.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>92.</hi> Halt.</cell>
+                           <cell>92. They ſtand ſtill here, as was ſhewn in Ex<g ref="char:EOLhyphen"/>plan.
+<pb n="201" facs="tcp:60340:102"/>89. ſtraighten your Ranks and Files, and carry your Arms well and high.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>93.</hi> To the Left a<g ref="char:EOLhyphen"/>baut, Wheel.</cell>
+                           <cell>93. They ſtand again ready to March and Wheel.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>94.</hi> March.</cell>
+                           <cell>94. As the whole Batta<g ref="char:EOLhyphen"/>lion at twice did Wheel at each time the Fourth part of a Circle, ſo muſt it now at once Wheel half a Circle to the Right about; ſo that every one comes to ſtand in his former Place again, obſerving as in Explan. 88.</cell>
+                        </row>
+                        <pb n="202" facs="tcp:60340:103"/>
+                        <row>
+                           <cell>
+                              <hi>95.</hi> Halt.</cell>
+                           <cell>95. The whole Battali<g ref="char:EOLhyphen"/>on being come to their former Place, ſtand, ſtraitning their Ranks and Files, carrying their Arms well.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>96.</hi> To the Left, Wheel.</cell>
+                           <cell>96. The whole Battali<g ref="char:EOLhyphen"/>on ſtands ready again to March and Wheel.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>97.</hi> March.</cell>
+                           <cell>97. The whole Battali<g ref="char:EOLhyphen"/>on Marches at once with the Left Foot for<g ref="char:EOLhyphen"/>ward, and Wheel to the Left the Fourth part of a Circle. The firſt Man of the Left
+<pb n="203" facs="tcp:60340:103"/>turns in his Place upon the Left Foot, as alſo the firſt Rank Cloſes to the Left, and the o<g ref="char:EOLhyphen"/>ther Ranks in their March Cloſe to the Right, without turn<g ref="char:EOLhyphen"/>ing their Heads. Ob<g ref="char:EOLhyphen"/>ſerve alſo what has been ſaid of Diſtance, Ranks and Files, and carrying of Arms.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>98.</hi> Halt.</cell>
+                           <cell>98. They ſtand ſtill as before, ſtraightning their Ranks and Files, carry their Arms well and expect the follow<g ref="char:EOLhyphen"/>ing Command.</cell>
+                        </row>
+                        <pb n="204" facs="tcp:60340:104"/>
+                        <row>
+                           <cell>
+                              <hi>99.</hi> To the Left, Wheel.</cell>
+                           <cell>99. They ſtand again ready to March and Wheel.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>100.</hi> March.</cell>
+                           <cell>100. They Wheel the Fourth part of a Circle to the Left, and ob<g ref="char:EOLhyphen"/>ſerve all in the above-ſaid Wheeling.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>101.</hi> Halt.</cell>
+                           <cell>101. They ſtand thus, expecting the follow<g ref="char:EOLhyphen"/>ing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>102.</hi> To the Left about, Wheel.</cell>
+                           <cell>102. They ſtand ready to March and Wheel.</cell>
+                        </row>
+                        <pb n="205" facs="tcp:60340:104"/>
+                        <row>
+                           <cell>
+                              <hi>103.</hi> March.</cell>
+                           <cell>103. As the whole Bat<g ref="char:EOLhyphen"/>talion did Wheel at twice, each time the Fourth part of a Cir<g ref="char:EOLhyphen"/>cle, ſo muſt it now at one time Wheel the half of a Circle to the Left about, by which every one comes to his former Place. Ob<g ref="char:EOLhyphen"/>ſerve alſo what hath been formerly ſaid.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>104.</hi> Halt.</cell>
+                           <cell>
+                              <p n="104">104. The whole Batta<g ref="char:EOLhyphen"/>lion being now come to their former Places, remain thus ſtraight<g ref="char:EOLhyphen"/>ning their Ranks and
+<pb n="206" facs="tcp:60340:105"/>Files, carrying their Arms well and high.</p>
+                              <p>
+                                 <hi>Note,</hi> That when you are to Wheel with open Ranks, the fol<g ref="char:EOLhyphen"/>lowing, Rank muſt not Wheel till it comes to the Place where the firſt Rank did Wheel; And when you Wheel to the Right, you muſt Cloſe to the Right, and look to the Left; And when you Wheel to the Left, you muſt Cloſe to the Left, and look towards the Right.</p>
+                           </cell>
+                        </row>
+                        <pb n="207" facs="tcp:60340:105"/>
+                        <row>
+                           <cell role="label">Files take heed to open to your former diſtance</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>105.</hi> Files to the Right and Left outwards, to your former diſtance.</cell>
+                           <cell>105. The Half-Ranks of the Right Hand turn upon the Left Foot to the Right, and the Half-Ranks of the Left Hand turn upon the Right Foot to the Left, and ſtand now Back to Back, as in Explan. 82. they ſtood Face to Face. Above all, care muſt be taken to carry their Arms ſtraight and high.</cell>
+                        </row>
+                        <pb n="208" facs="tcp:60340:106"/>
+                        <row>
+                           <cell>
+                              <hi>106.</hi> March.</cell>
+                           <cell>106. The Half-Ranks of the Right ſtep forward with the Left, and the Half Ranks of the Left ſtep forward with the Right Foot all at once, and March to their for<g ref="char:EOLhyphen"/>mer Places; thoſe that ſtand in the middle make but half a Pace.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>107.</hi> Halt.</cell>
+                           <cell>107. The Right Half-Ranks Face upon the Left Foot to the Left, and the Left Half-Ranks Face upon the Right Foot to the Right, and ſtraighten again their Ranks and
+<pb n="209" facs="tcp:60340:106"/>Files, and carry their Arms well, ſtraight, and high.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Ranks take heed to open to your former diſtance.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>108.</hi> Ranks as you were.</cell>
+                           <cell>108. The Five Ranks which in Explan. 85. did Cloſe forwards, turn upon the Left Foot to the Right about, ſtanding thus ready to March as they were, The Firſt Rank of the Five which turns, muſt take ſpeci<g ref="char:EOLhyphen"/>al care to carry the Muzzels of their Arms high, that they may not touch the Arms of
+<pb n="210" facs="tcp:60340:107"/>the Firſt Rank that ſtands ſtill.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>109.</hi> March.</cell>
+                           <cell>109. The forementioned Five Ranks ſtep at once with the Left Foot for<g ref="char:EOLhyphen"/>wards, Marching ſlow<g ref="char:EOLhyphen"/>ly to their former di<g ref="char:EOLhyphen"/>ſtance of Four Paces, obſerving that the Left Foot comes down, laſt, and ſtands foremoſt; and expect the follow<g ref="char:EOLhyphen"/>ing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>110.</hi> Halt.</cell>
+                           <cell>110. The foreſaid Five Ranks Face at once up<g ref="char:EOLhyphen"/>on the Left Foot to the Left about, ſtraight<g ref="char:EOLhyphen"/>ning
+<pb n="211" facs="tcp:60340:107"/>their Ranks and Files as before.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Take heed to lay down your Arms.</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>111.</hi> Reſt your Muskets.</cell>
+                           <cell>111. The Muskets are ta<g ref="char:EOLhyphen"/>ken from the Shoulder and reſted, as is ſhewn in the Exerciſe of the Musket in Explan. 37.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>112.</hi> Order your Arms.</cell>
+                           <cell>112. This is done as in the Exerciſe of the Muſ<g ref="char:EOLhyphen"/>ket, Explan. 38. and of the Pike, Explan. 31.</cell>
+                        </row>
+                        <pb n="212" facs="tcp:60340:108"/>
+                        <row>
+                           <cell>
+                              <hi>113.</hi> Lay down your Arms.</cell>
+                           <cell>113. This is done as in the Exerciſe of the Musket, Explan. 39. and that of the Pike, Explan. 32. has been ſaid; and it muſt be ob<g ref="char:EOLhyphen"/>ſerved, that the Muſ<g ref="char:EOLhyphen"/>keteers and Pikemen perform all their Mo<g ref="char:EOLhyphen"/>tions at one time.</cell>
+                        </row>
+                        <row>
+                           <cell role="label">Take heed to quit your Arms</cell>
+                           <cell role="label"> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>114.</hi> For Straw.</cell>
+                           <cell>114. As ſoon as this Com<g ref="char:EOLhyphen"/>mand is given, the whole Battalion muſt Face upon the Left Foot to the Right a<g ref="char:EOLhyphen"/>bout, and expect the following Command.</cell>
+                        </row>
+                        <pb n="213" facs="tcp:60340:108"/>
+                        <row>
+                           <cell>
+                              <hi>115.</hi> March.</cell>
+                           <cell>
+                              <p n="115">115. The whole Battali<g ref="char:EOLhyphen"/>on ſtep with the Left Foot forwards, and March ſlowly between the Files of their Arms, and March ſo far clear from their Arms as the Com<g ref="char:EOLhyphen"/>manding Officer plea<g ref="char:EOLhyphen"/>ſes to order.</p>
+                              <p>
+                                 <hi>Note,</hi> When the Sol<g ref="char:EOLhyphen"/>diers are Marched be<g ref="char:EOLhyphen"/>yond their Arms, they do not then obſerve Ranks and Files; which Marching and Return<g ref="char:EOLhyphen"/>ing may alſo be done with the Drum, or with the Shot of a Musket,
+<pb n="214" facs="tcp:60340:109"/>according as the Com<g ref="char:EOLhyphen"/>manding Officer plea<g ref="char:EOLhyphen"/>ſes to order.</p>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>116.</hi> To your Arms</cell>
+                           <cell>116. As ſoon as this Com<g ref="char:EOLhyphen"/>mand is given, they all draw their Swords, and run together (holding their Swords in their Right Hands even with their Shoul<g ref="char:EOLhyphen"/>ders, the Points up<g ref="char:EOLhyphen"/>wards) to their Arms and ſtand thus expect<g ref="char:EOLhyphen"/>ing the following Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>117.</hi> Put up your Swords.</cell>
+                           <cell>117. The whole Battali<g ref="char:EOLhyphen"/>on turn at once, the
+<pb n="215" facs="tcp:60340:109"/>Points of their Swords down, looking to<g ref="char:EOLhyphen"/>wards the Left Hand, and put them in the Scabbards; tell 1, 2, let go the Right Hand, ſtand thus, both Hands hanging down by the Body, till the follow<g ref="char:EOLhyphen"/>ing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>118.</hi> Take up your Arms.</cell>
+                           <cell>118. This is done as in the Exerciſe of the Musket, Explan. 40. and of the Pike, Explan. 33. taking heed that every one obſerve his Leader, and his Right-hand
+<pb n="216" facs="tcp:60340:110"/>Man, that they all riſe at once.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>119.</hi> Reſh your Muskets.</cell>
+                           <cell>119. This is done as in the Exerciſe of the Musket, Explan. 41.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>120.</hi> Poiſe your Muskets, and Advance your Pikes.</cell>
+                           <cell>120. The Muskets and Pikes are brought up at one time, and held before the Body; <hi>viz.</hi> The Musketeers take their Muskets with the Right Hand under their Pans, and bring up their Muskets be<g ref="char:EOLhyphen"/>fore the Body with both Hands, (at the ſame time bringing up
+<pb n="217" facs="tcp:60340:110"/>the Right Foot) in which Bringing up he lets go the Left Hand, and holds his Musket with an out-ſtretched Arm before the mid<g ref="char:EOLhyphen"/>dle of his Body; The Pikemen do as in Ex<g ref="char:EOLhyphen"/>plan. 36. and all ſtand thus expecting the fol<g ref="char:EOLhyphen"/>lowing Command.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>121.</hi> Shoulder your Muskets.</cell>
+                           <cell>121. This is done as in Explan. 9. carrying your Arms well, as of<g ref="char:EOLhyphen"/>ten has been ſaid.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb facs="tcp:60340:111"/>
+               <pb n="219" facs="tcp:60340:111"/>
+               <head>R<g ref="char:V">Ʋ</g>LES for the Forming of Battalions, the Poſting of Officers, Salutes, <hi>&amp;c.</hi>
+               </head>
+               <p n="1">I. FIrſt, the Companies which are to Form a Battalion, ſhall place themſelves according to the Date of their Commiſſions; <hi>Viz.</hi> The Colonel, or firſt Company on the Right Wing;. The Second, or Lieutenant Colonels Company, up<g ref="char:EOLhyphen"/>on the Left Wing; The Majors, or Third Company, upon the Right Wing, next the Firſt or Colonels Company; The eldeſt Captain, or Fourth Company upon the Left Wing, next the Lieutenant Colo<g ref="char:EOLhyphen"/>nels or Second Company. All the
+<pb n="220" facs="tcp:60340:112" rendition="simple:additions"/>other Companies after that manner muſt place themſelves, till the youngeſt Company come to ſtand in the Centre.</p>
+               <p n="2">II. When the Companies are March<g ref="char:EOLhyphen"/>ing to the place where the Batta<g ref="char:EOLhyphen"/>lion is to be Formed, the Pikemen muſt March with their Pikes Ad<g ref="char:EOLhyphen"/>vanced; they muſt always be pla<g ref="char:EOLhyphen"/>ced on the Left Hand of the Mus<g ref="char:EOLhyphen"/>keteers of their Companies.</p>
+               <p n="3">III. When all the Companies are come to the place where they are to Form the Battalion, a Drummer is to ſtand before the Centre of the Battalion, and to Beat a Ruffle for warning; and the Musketeers of thoſe Companies which make the Right Wing, ſhall Face to the Right,
+<pb n="221" facs="tcp:60340:112"/>and the Pikes to the Left; The Musketeers of the Left ſhall face to the Left, and the Pikes to the Right; upon which all the Drummers ſhall Beat a Troop, and the Musketeers and Pikemen March through and Form the Battalion.</p>
+               <p>The Officers alſo at the ſame time when the Ruffle is Beat, muſt ſtand with their Faces towards the Battalion, their Pikes and Partiſans in their hands; and alſo when the Troop Beats, March and Poſt them<g ref="char:EOLhyphen"/>ſelves in their proper places.</p>
+               <p>In the ſame manner is the Bat<g ref="char:EOLhyphen"/>talion to be Reduced again to Companies; only with this differ<g ref="char:EOLhyphen"/>ence, that all thoſe which in the forming the Battalion faced to the Right, muſt then Face to the Left; and thoſe which Faced to the Left, muſt Face to the Right.</p>
+               <pb n="222" facs="tcp:60340:113"/>
+               <p>Here is alſo to be obſerved, that when they March off by Compa<g ref="char:EOLhyphen"/>nies, the Company on the Right Wing ſhall March firſt, Beating a Troop, with their Muskets Club<g ref="char:EOLhyphen"/>bed, and their Pikes Advanced; And then the Company on the Left Wing follows, and ſo one after a<g ref="char:EOLhyphen"/>nother, according to Seniority.</p>
+               <p>
+                  <hi>Note,</hi> That when they Troop off, the Pikes March before the Musketeers.</p>
+               <p>The Pikes muſt always be Ad<g ref="char:EOLhyphen"/>vanced when they March before the King.</p>
+               <p n="4">IV. The Battalion being Formed, as is ſaid before, the Colonel places himſelf in the Centre, before the Pikes and Colours; The Lieu<g ref="char:EOLhyphen"/>tenant Colonel behind him; the
+<pb n="223" facs="tcp:60340:113"/>half of the Captains; as alſo of the Lieutenants in one line upon the Right Wing, the other half upon the Left Wing of the Musketeers; And the Enſigns before the Pikes, either with the Colours or Half-Pikes.</p>
+               <p>And that the Officers may not alter their places by their continual Moving to and fro, the Captains, as alſo the Lieutenants ſhall remain upon that Wing where their Mus<g ref="char:EOLhyphen"/>keteers are, and there Poſt them<g ref="char:EOLhyphen"/>ſelves according to their Com<g ref="char:EOLhyphen"/>miſſions; that is, the eldeſt out<g ref="char:EOLhyphen"/>wards, and the youngeſt towards the Centre; ſo that thoſe that have their Musketeers upon the Right Wing muſt remain before them, though there ſhould be found elder upon the Left Wing. But in caſe there ſhould be a great many Offi<g ref="char:EOLhyphen"/>cers more abſent upon the one
+<pb n="224" facs="tcp:60340:114"/>Wing then the other, the youngeſt are always to go over to the other Wing, to make the number equal; Though upon Action every one ſhall remain and be left as near his own Company as poſſible may be; Of which all Colonels and Commanding Officers of Battalions, are to take great care, and to ſee that all be done for the beſt of the Ser<g ref="char:EOLhyphen"/>vice.</p>
+               <p>The Sergeants are to Rank them<g ref="char:EOLhyphen"/>ſelves in the Reer of the Battalion, except thoſe that are Commanded to ſtand upon the Wings; thoſe Battalions which have but few Companies, and by conſequence but few Sergeants, muſt have Three upon each Wing, that is, at the Firſt, the Fourth, and Laſt Rank; but thoſe Battalions where there are Ser<g ref="char:EOLhyphen"/>geants enough, muſt have one upon the Wing of each Rank, and this is
+<pb n="225" facs="tcp:60340:114"/>to be ordered according <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s there is more or fewer Companies in the Battalion.</p>
+               <p>And as to the Drummers, they muſt be divided into Three Parts; The Firſt Third Part ſhall place themſelves upon the Right Wing of the Musketeers, next to the Cor<g ref="char:EOLhyphen"/>poral, or outmoſt Granadeer; The Second Third Part upon the Left Wing; And the other Third Part before the Pikes, behind the Co<g ref="char:EOLhyphen"/>lours, where the Hoboys are alſo to place themſelves.</p>
+               <p n="5">V. The Battalion being to Exerciſe, no Officer may be abſent without leave, but always ſtand by the Exerciſe, with his Arms in his Hand, upon the Poſt which in the Rule of Exerciſe is aſſigned him, ſtill expecting ſuch Orders as
+<pb n="226" facs="tcp:60340:115"/>may be given him; to Exer<g ref="char:EOLhyphen"/>ciſe the whole Battalion, ſome part of it, or a ſingle Company, which they are always to perform with their Arms in their Hands, and not to quit their Arms.</p>
+               <p>No Officer ſhall Exerciſe on Horſeback, except the Major, or thoſe that in his abſence do perform Majors Duty.</p>
+               <p n="6">VI. When the King is to be Saluted, ſo ſoon as he draws near, all the Drummers are to Beat a March; and his Majeſty being come near the Regiment, the Musketeers being Shoulder'd, they ſhall Reſt their Muskets, and the Pikemen (having their Pikes Advanced) ſhall at the ſame time Charge their Pikes with the Spears Breaſt high, and remain in this Poſture till his Majeſty ſhall be
+<pb n="227" facs="tcp:60340:115"/>paſt the Regiment; In his Riding by the Officers ſhall Salute him, he being Three or Four Paces diſtance from them: And all thoſe that are of one Character, ſhall Salute all in one Form.</p>
+               <p>Here is to be obſerved, that in the abſence of the Enſign, which otherwiſe being preſent, muſt carry the Colours before his Breaſt when he is to Salute,</p>
+               <p>He that carries the Colours be<g ref="char:EOLhyphen"/>ing no Enſign, as is commonly done by the Free Corporal, may March and ſtand in the Enſigns Place, but not Salute.</p>
+               <p>When his Majeſty paſſes the Reer of the Battalion, no Officer nor Colours ſhall go through the Batta<g ref="char:EOLhyphen"/>lion to the Reer, nor Salute any further; but the Soldiers Preſent their Arms to the Right about, as before has been ſhewn, the Pikes
+<pb n="228" facs="tcp:60340:116"/>being Charged, and the Muskets Reſted.</p>
+               <p n="7">VII. When a Battalion is to File off and March, the Colonel Marches foremoſt alone, or he that Com<g ref="char:EOLhyphen"/>mands the Battalion, altho' he were but a Captain; upon which the half of the Captains in one Rank follow, and then the Musketeers; The other half of the Captains March in the Reer of the laſt Divi<g ref="char:EOLhyphen"/>ſion of Musketeers, and behind them the Lieutenant Colonel; but the Lieutenant Colonel being ab<g ref="char:EOLhyphen"/>ſent, or in the abſence of the Colo<g ref="char:EOLhyphen"/>nel, he Leading the Regiment, no Captain ſhall Cloſe in the Reer, to March in the Lieutenant Colonels Place, but ſhall March in the ſame Rank with the reſt of the Captains, in the Reer.</p>
+               <pb n="229" facs="tcp:60340:116"/>
+               <p>No Captain is to March in the Lieutenant Colonels Place.</p>
+               <p>The Lieutenants ſhall Lead the Diviſions of the Musketeers, and the Enſigns the Diviſions of the Pikes; but thoſe Enſigns that carry the Colours, ſhall March together before the middle Diviſion of the Pikes, and wanting Lieutenants, ſome of the Enſigns ſhall be taken to Lead the Diviſions of Muske<g ref="char:EOLhyphen"/>teers, where Lieutenants are want<g ref="char:EOLhyphen"/>ing.</p>
+               <p>The youngeſt Captain ſhall al<g ref="char:EOLhyphen"/>ways March before the Pikes, ha<g ref="char:EOLhyphen"/>ving one Enſign behind him, or more if there be any left when the Diviſions are provided.</p>
+               <p>It muſt be obſerved, that they muſt not March with more Divi<g ref="char:EOLhyphen"/>ſions then there are Officers to lead them; and ſometimes finding the Way too narrow to March with a
+<pb n="230" facs="tcp:60340:117"/>ſtrong Front, then they muſt March with Half-Ranks, or leſs Diviſions, or Doubling of Files, as may be moſt convenient.</p>
+               <p n="8">VIII. The Drummers ſhall in their March continue divided in Three Parts, and a Third Part of them by each Diviſion of Musketeers on the Right Wing; and another Third Part by the Second Diviſion of Muſ<g ref="char:EOLhyphen"/>keteers on the Left Wing; and the other Third Part by the Pikes. They ſhall always in their March, one of them Beat in each Diviſion, but when a Battalion Marches into a Town, or other publick Places, they muſt all of them Beat.</p>
+               <p>It is to be obſerved, that they muſt always March between the Third and Fourth Rank of every Head or Chief Diviſion; that is, one Third Part by the Firſt Diviſion.</p>
+               <pb n="231" facs="tcp:60340:117"/>
+               <p n="9">IX. The Officers in Marching ſhall carry their Arms downwards, till ſuch time as they are to Salute, and then the Captains and the Enſigns Shoulder them, and from thence Salute; But the Enſigns that carry the Colours, ſhall in their March carry them upon their Shoulders, and only take them before their Breaſt when they are going to Sa<g ref="char:EOLhyphen"/>lute.</p>
+               <p>The Sergeants and under Offi<g ref="char:EOLhyphen"/>cers are not to Salute, but carry their Arms upon their Left Shoul<g ref="char:EOLhyphen"/>ders, the Spears in their Hands downwards, and only in Marching by take off their Hats.</p>
+               <p n="10">X. His Majeſty ſhall not be Saluted by Guards, or otherwiſe, but once a
+<pb n="232" facs="tcp:60340:118"/>day, except he finding a Regiment or Company Poſted, having after<g ref="char:EOLhyphen"/>ward Commanded to ſee it March by; upon which Occaſion he muſt be again Saluted.</p>
+               <p>It is to be noted, that a Battali<g ref="char:EOLhyphen"/>on being Commanded to March by the King in Companies, that then all Commanding Officers, the Colonel included, muſt March at the Head of their Companies.</p>
+               <p n="11">XI. The further Ceremonies to be performed to his Majeſty, as alſo to all others, do remain as formerly, the General Officers hereafter na<g ref="char:EOLhyphen"/>med included. The Lieutenant Ge<g ref="char:EOLhyphen"/>nerals, or thoſe that are in the ſame Quality or Degree, ſhall for the future be Saluted by all Officers, the Colonel, Lieutenant Colonel, and the Colours excepted.</p>
+               <pb n="233" facs="tcp:60340:118"/>
+               <p>In the Field or Camp ſhall be given them Three Ruffels, alſo in Garriſon by the Main Guard; but all other Guards ſhall Beat a March.</p>
+               <p>Before their Door ſhall be placed a Sergeant and two Sentinels.</p>
+               <p>The Major General ſhall be Sa<g ref="char:EOLhyphen"/>luted by no Officer, and but Two Ruffels given him either in Camp or Garriſon, and at his Door Two Sentinels.</p>
+               <p>For thoſe Governours that are no Generals, there ſhall in all Places where they are Governours, be gi<g ref="char:EOLhyphen"/>ven them one Ruffel.</p>
+               <p>But for them that have no Com<g ref="char:EOLhyphen"/>miſſions as Governours, no Drum ſhall Beat.</p>
+               <p>The Main Guard ſhall Reſt their Arms to the Governour, as alſo every Sentinel; but if he continue Walking or Standing before the Guard, they may lay down their Arms.</p>
+               <pb n="234" facs="tcp:60340:119"/>
+               <p>The Colonels ſhall have one Sen<g ref="char:EOLhyphen"/>tinel at their Doors, and thoſe of the Garriſon one of their own Regi<g ref="char:EOLhyphen"/>ment. He that Commands the Re<g ref="char:EOLhyphen"/>giment in abſence of the Colonel, ſhall have that Sentinel at his Door.</p>
+               <p>The Main Guard ſhall turn out, and Stand to their Arms for a Colo<g ref="char:EOLhyphen"/>nel, tho' but once a day; they may return into the Guard, if he conti<g ref="char:EOLhyphen"/>nue to Stand or Walk near the Guard, but all other Guards ſhall Order their Arms for him; the Sen<g ref="char:EOLhyphen"/>tinels of his own Regiment ſhall Reſt their Arms to him, but thoſe of other Regiments ſhall remain Shoulder'd.</p>
+               <p>The Lieutenant Governours and Commanders ſhall be Treated in their own Garriſons as Colonels, and the Major <hi>Comadants</hi> as the Lieute<g ref="char:EOLhyphen"/>nant Colonels, except by the ab<g ref="char:EOLhyphen"/>ſence of the Commander they Com<g ref="char:EOLhyphen"/>mand
+<pb n="235" facs="tcp:60340:119"/>in his Place, and then to be Treated as before is ſaid of the Commanders.</p>
+               <p>For the Lieutenant Colonels and Majors, the Main Guard is to do no<g ref="char:EOLhyphen"/>thing, but the other Guards turn out and ſtand over their Arms. The Sentinels of their own Regiment muſt Reſt their Muskets to them, but thoſe of other Regiments keep their Muskets Shoulder'd.</p>
+               <p>For Captains and Subalterns, the Sentinels ſhall keep their Arms Shoulder'd, except it be in Places where they Command; and then they are to Reſt their Arms, and the Guards to turn out.</p>
+               <p n="12">XII. No Cannon ſhall be Fired for any General mentioned in the Eleventh Article; that is to ſay, when they come in, or go out of a Garriſon.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
